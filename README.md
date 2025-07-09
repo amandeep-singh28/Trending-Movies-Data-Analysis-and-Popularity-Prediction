@@ -1,5 +1,6 @@
 # 🌌🎬 Trending-Movies-Data-Analysis-and-Popularity-Prediction
 
+
 An interactive and aesthetic movie analytics dashboard built using **Python, MySQL, and Power BI**, integrated with a **Decision Tree Classification Model** to predict movie popularity. Designed with a **moonlit purple-pink landscape theme** to deliver insights with clarity and creativity.
 
 ---
@@ -86,6 +87,37 @@ This project follows a structured **ETL pipeline**:
 
 ---
 
+## 📁 **Dataset Used**
+
+The data for this project was sourced from [Kaggle – Netflix TV Shows and Movies Dataset](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies).
+
+### 📌 **Dataset Details**
+
+- Includes metadata of Netflix shows and movies such as:
+  - **Title**
+  - **Genre**
+  - **Cast**
+  - **Release Year**
+  - **Runtime**
+  - **Production Countries**
+  - **IMDb & TMDb Ratings**
+  - **Popularity**
+  - and more.
+
+- **Primary CSV Files Used:**
+  - `titles.csv` – contains movie/show metadata.
+  - `credits.csv` – contains actor/character details.
+
+---
+
+### 🔗 **Access the Dataset**
+
+[![Kaggle Dataset](https://img.shields.io/badge/View%20on-Kaggle-blue)](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)
+
+> 📎 **Link:** [https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)
+
+---
+
 ## 📌 **6. Final Thoughts & Future Scope**
 
 ✅ **Theme Integration:** Harmonised visuals with the moonlit wallpaper background.  
@@ -104,4 +136,6 @@ This project follows a structured **ETL pipeline**:
 ### 🔗 **Connect**
 
 Feel free to connect for collaboration, reviews, or suggestions to enhance this project further.
+
+
 
