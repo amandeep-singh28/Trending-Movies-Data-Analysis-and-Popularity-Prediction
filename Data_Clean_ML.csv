@@ -1,0 +1,1001 @@
+﻿id,title,type,release_year,age_certification,runtime,genre.2.1,production_countries,imdb_score,imdb_votes,tmdb_popularity,tmdb_score,Revenue(In Millions)
+ts300399,Five Came Back: The Reference Films,SHOW,1945,TV-MA,51,documentation,['US'],6.510860656,23439.38247,0.6,6.510860656,169
+tm84618,Taxi Driver,MOVIE,1976,R,114,drama,['US'],8.2,808582,40.965,8.2,16
+tm84618,Taxi Driver,MOVIE,1976,R,114,crime,['US'],8.2,808582,40.965,8.2,16
+tm154986,Deliverance,MOVIE,1972,R,109,drama,['US'],7.7,107673,10.01,7.7,73
+tm154986,Deliverance,MOVIE,1972,R,109,action,['US'],7.7,107673,10.01,7.7,73
+tm154986,Deliverance,MOVIE,1972,R,109,thriller,['US'],7.7,107673,10.01,7.7,73
+tm154986,Deliverance,MOVIE,1972,R,109,european,['US'],7.7,107673,10.01,7.7,73
+tm127384,Monty Python and the Holy Grail,MOVIE,1975,PG,91,fantasy,['GB'],8.2,534486,15.461,8.2,23
+tm127384,Monty Python and the Holy Grail,MOVIE,1975,PG,91,action,['GB'],8.2,534486,15.461,8.2,23
+tm127384,Monty Python and the Holy Grail,MOVIE,1975,PG,91,comedy,['GB'],8.2,534486,15.461,8.2,23
+tm120801,The Dirty Dozen,MOVIE,1967,Unrated,150,war,"['GB', 'US']",7.7,72662,20.398,7.7,300
+tm120801,The Dirty Dozen,MOVIE,1967,Unrated,150,action,"['GB', 'US']",7.7,72662,20.398,7.7,300
+ts22164,Monty Python's Flying Circus,SHOW,1969,TV-14,30,comedy,['GB'],8.8,73424,17.617,8.8,76
+ts22164,Monty Python's Flying Circus,SHOW,1969,TV-14,30,european,['GB'],8.8,73424,17.617,8.8,76
+tm70993,Life of Brian,MOVIE,1979,R,94,comedy,['GB'],8,395024,17.77,8,264
+tm14873,Dirty Harry,MOVIE,1971,R,102,thriller,['US'],7.7,155051,12.817,7.7,163
+tm14873,Dirty Harry,MOVIE,1971,R,102,action,['US'],7.7,155051,12.817,7.7,163
+tm14873,Dirty Harry,MOVIE,1971,R,102,crime,['US'],7.7,155051,12.817,7.7,163
+tm119281,Bonnie and Clyde,MOVIE,1967,R,110,crime,['US'],7.7,112048,15.687,7.7,96
+tm119281,Bonnie and Clyde,MOVIE,1967,R,110,drama,['US'],7.7,112048,15.687,7.7,96
+tm119281,Bonnie and Clyde,MOVIE,1967,R,110,action,['US'],7.7,112048,15.687,7.7,96
+tm98978,The Blue Lagoon,MOVIE,1980,R,104,romance,['US'],5.8,69844,50.324,5.8,76
+tm98978,The Blue Lagoon,MOVIE,1980,R,104,action,['US'],5.8,69844,50.324,5.8,76
+tm98978,The Blue Lagoon,MOVIE,1980,R,104,drama,['US'],5.8,69844,50.324,5.8,76
+tm44204,The Guns of Navarone,MOVIE,1961,Unrated,158,action,"['GB', 'US']",7.5,50748,13.844,7.5,214
+tm44204,The Guns of Navarone,MOVIE,1961,Unrated,158,drama,"['GB', 'US']",7.5,50748,13.844,7.5,214
+tm44204,The Guns of Navarone,MOVIE,1961,Unrated,158,war,"['GB', 'US']",7.5,50748,13.844,7.5,214
+tm67378,The Professionals,MOVIE,1966,PG-13,117,western,['US'],7.3,16446,13.123,7.3,48
+tm67378,The Professionals,MOVIE,1966,PG-13,117,action,['US'],7.3,16446,13.123,7.3,48
+tm67378,The Professionals,MOVIE,1966,PG-13,117,european,['US'],7.3,16446,13.123,7.3,48
+tm69997,Richard Pryor: Live in Concert,MOVIE,1979,R,78,comedy,['US'],8.1,5141,4.718,8.1,288
+tm69997,Richard Pryor: Live in Concert,MOVIE,1979,R,78,documentation,['US'],8.1,5141,4.718,8.1,288
+tm16479,White Christmas,MOVIE,1954,Unrated,115,romance,['US'],7.5,42488,8.915,7.5,219
+tm16479,White Christmas,MOVIE,1954,Unrated,115,comedy,['US'],7.5,42488,8.915,7.5,219
+tm135083,Cairo Station,MOVIE,1958,Unrated,77,drama,['EG'],7.5,4471,5.546,7.5,125
+tm135083,Cairo Station,MOVIE,1958,Unrated,77,crime,['EG'],7.5,4471,5.546,7.5,125
+tm135083,Cairo Station,MOVIE,1958,Unrated,77,comedy,['EG'],7.5,4471,5.546,7.5,125
+tm89386,Hitler: A Career,MOVIE,1977,PG,150,history,['DE'],7.5,2460,4.305,7.5,117
+tm89386,Hitler: A Career,MOVIE,1977,PG,150,documentation,['DE'],7.5,2460,4.305,7.5,117
+tm89386,Hitler: A Career,MOVIE,1977,PG,150,european,['DE'],7.5,2460,4.305,7.5,117
+tm156453,FTA,MOVIE,1972,R,97,war,['US'],6.2,418,1.268,6.2,294
+tm156453,FTA,MOVIE,1972,R,97,documentation,['US'],6.2,418,1.268,6.2,294
+tm156453,FTA,MOVIE,1972,R,97,music,['US'],6.2,418,1.268,6.2,294
+tm156453,FTA,MOVIE,1972,R,97,comedy,['US'],6.2,418,1.268,6.2,294
+tm14350,Alexandria… Why?,MOVIE,1979,Unrated,133,drama,['EG'],7.2,1727,1.37,7.2,168
+tm81728,The Land,MOVIE,1969,Unrated,129,drama,['EG'],8.1,1958,1.265,8.1,196
+tm94651,Dostana,MOVIE,1980,Unrated,161,drama,['IN'],2.1,25,3.98,2.1,103
+tm94651,Dostana,MOVIE,1980,Unrated,161,comedy,['IN'],2.1,25,3.98,2.1,103
+tm94651,Dostana,MOVIE,1980,Unrated,161,crime,['IN'],2.1,25,3.98,2.1,103
+tm94651,Dostana,MOVIE,1980,Unrated,161,romance,['IN'],2.1,25,3.98,2.1,103
+tm94651,Dostana,MOVIE,1980,Unrated,161,action,['IN'],2.1,25,3.98,2.1,103
+tm27298,Saladin the Victorious,MOVIE,1963,Unrated,186,action,['EG'],7.6,2508,4.156,7.6,261
+tm27298,Saladin the Victorious,MOVIE,1963,Unrated,186,drama,['EG'],7.6,2508,4.156,7.6,261
+tm27298,Saladin the Victorious,MOVIE,1963,Unrated,186,war,['EG'],7.6,2508,4.156,7.6,261
+tm27298,Saladin the Victorious,MOVIE,1963,Unrated,186,history,['EG'],7.6,2508,4.156,7.6,261
+tm27298,Saladin the Victorious,MOVIE,1963,Unrated,186,romance,['EG'],7.6,2508,4.156,7.6,261
+tm100027,Alibaba Aur 40 Chor,MOVIE,1979,Unrated,146,drama,"['SU', 'IN']",6.2,565,2.582,6.2,52
+tm100027,Alibaba Aur 40 Chor,MOVIE,1979,Unrated,146,romance,"['SU', 'IN']",6.2,565,2.582,6.2,52
+tm100027,Alibaba Aur 40 Chor,MOVIE,1979,Unrated,146,action,"['SU', 'IN']",6.2,565,2.582,6.2,52
+tm100027,Alibaba Aur 40 Chor,MOVIE,1979,Unrated,146,fantasy,"['SU', 'IN']",6.2,565,2.582,6.2,52
+tm100027,Alibaba Aur 40 Chor,MOVIE,1979,Unrated,146,family,"['SU', 'IN']",6.2,565,2.582,6.2,52
+tm19608,The Blazing Sun,MOVIE,1954,Unrated,100,crime,['EG'],7.4,1219,2.184,7.4,39
+tm19608,The Blazing Sun,MOVIE,1954,Unrated,100,romance,['EG'],7.4,1219,2.184,7.4,39
+tm19608,The Blazing Sun,MOVIE,1954,Unrated,100,drama,['EG'],7.4,1219,2.184,7.4,39
+tm204541,Dark Waters,MOVIE,1956,Unrated,120,action,['EG'],6.7,610,0.849,6.7,34
+tm204541,Dark Waters,MOVIE,1956,Unrated,120,drama,['EG'],6.7,610,0.849,6.7,34
+tm204541,Dark Waters,MOVIE,1956,Unrated,120,romance,['EG'],6.7,610,0.849,6.7,34
+tm204541,Dark Waters,MOVIE,1956,Unrated,120,thriller,['EG'],6.7,610,0.849,6.7,34
+tm259855,We Are All for the Fatherland,MOVIE,1979,Unrated,74,documentation,"['LB', 'CA', 'FR']",6.1,47,0.6,6.1,59
+tm356209,Singapore,MOVIE,1960,Unrated,158,drama,['IN'],6.4,84,0.792,6.4,256
+tm356209,Singapore,MOVIE,1960,Unrated,158,thriller,['IN'],6.4,84,0.792,6.4,256
+tm356209,Singapore,MOVIE,1960,Unrated,158,crime,['IN'],6.4,84,0.792,6.4,256
+ts45948,Monty Python's Fliegender Zirkus,SHOW,1972,TV-MA,43,comedy,[],8.1,2151,1.487,8.1,89
+tm200475,"Beirut, Oh Beirut",MOVIE,1975,Unrated,110,drama,['LB'],6.4,108,1.025,6.4,197
+tm90896,The Return of the Prodigal Son,MOVIE,1976,Unrated,124,music,"['DZ', 'EG']",7.2,780,1.858,7.2,212
+tm90896,The Return of the Prodigal Son,MOVIE,1976,Unrated,124,drama,"['DZ', 'EG']",7.2,780,1.858,7.2,212
+tm90896,The Return of the Prodigal Son,MOVIE,1976,Unrated,124,crime,"['DZ', 'EG']",7.2,780,1.858,7.2,212
+tm336403,Khoon Khoon,MOVIE,1973,Unrated,131,crime,['IN'],5.1,41,1.948,5.1,122
+tm336403,Khoon Khoon,MOVIE,1973,Unrated,131,thriller,['IN'],5.1,41,1.948,5.1,122
+tm107372,Manoranjan,MOVIE,1974,Unrated,162,romance,['IN'],6.5,237,1.532,6.5,32
+tm107372,Manoranjan,MOVIE,1974,Unrated,162,drama,['IN'],6.5,237,1.532,6.5,32
+tm107372,Manoranjan,MOVIE,1974,Unrated,162,comedy,['IN'],6.5,237,1.532,6.5,32
+tm358653,Ujala,MOVIE,1959,Unrated,142,romance,['IN'],6.6,78,0.84,6.6,81
+tm358653,Ujala,MOVIE,1959,Unrated,142,crime,['IN'],6.6,78,0.84,6.6,81
+tm358653,Ujala,MOVIE,1959,Unrated,142,drama,['IN'],6.6,78,0.84,6.6,81
+tm259684,Whispers,MOVIE,1980,Unrated,93,documentation,"['CA', 'FR', 'LB']",7.8,78,0.6,7.8,53
+tm403346,Chadi Jawani Budhe Nu,MOVIE,1976,Unrated,135,romance,['IN'],4.6,14,0.62,4.6,239
+tm16812,Bandie,MOVIE,1978,Unrated,141,drama,['IN'],4.4,35,1.166,4.4,51
+tm16812,Bandie,MOVIE,1978,Unrated,141,action,['IN'],4.4,35,1.166,4.4,51
+tm16812,Bandie,MOVIE,1978,Unrated,141,romance,['IN'],4.4,35,1.166,4.4,51
+ts20681,Seinfeld,SHOW,1989,TV-PG,24,comedy,['US'],8.9,308824,130.213,8.9,133
+tm155787,GoodFellas,MOVIE,1990,R,145,drama,['US'],8.7,1131681,50.387,8.7,219
+tm155787,GoodFellas,MOVIE,1990,R,145,crime,['US'],8.7,1131681,50.387,8.7,219
+tm22327,Full Metal Jacket,MOVIE,1987,R,117,war,"['US', 'GB']",8.3,729274,32.937,8.3,208
+tm22327,Full Metal Jacket,MOVIE,1987,R,117,drama,"['US', 'GB']",8.3,729274,32.937,8.3,208
+tm180542,Once Upon a Time in America,MOVIE,1984,R,139,crime,"['US', 'IT']",8.3,345714,28.937,8.3,50
+tm180542,Once Upon a Time in America,MOVIE,1984,R,139,drama,"['US', 'IT']",8.3,345714,28.937,8.3,50
+tm180542,Once Upon a Time in America,MOVIE,1984,R,139,european,"['US', 'IT']",8.3,345714,28.937,8.3,50
+tm138875,When Harry Met Sally...,MOVIE,1989,R,96,comedy,['US'],7.7,216199,15.123,7.7,296
+tm138875,When Harry Met Sally...,MOVIE,1989,R,96,romance,['US'],7.7,216199,15.123,7.7,296
+tm138875,When Harry Met Sally...,MOVIE,1989,R,96,drama,['US'],7.7,216199,15.123,7.7,296
+tm2386,A Nightmare on Elm Street,MOVIE,1984,R,91,horror,"['GB', 'US']",7.4,234068,48.358,7.4,137
+tm133087,Steel Magnolias,MOVIE,1989,PG,119,comedy,['US'],7.3,54946,11.69,7.3,272
+tm133087,Steel Magnolias,MOVIE,1989,PG,119,drama,['US'],7.3,54946,11.69,7.3,272
+tm133087,Steel Magnolias,MOVIE,1989,PG,119,romance,['US'],7.3,54946,11.69,7.3,272
+tm177480,Police Academy,MOVIE,1984,R,97,crime,['US'],6.7,124881,25.533,6.7,234
+tm177480,Police Academy,MOVIE,1984,R,97,comedy,['US'],6.7,124881,25.533,6.7,234
+tm54450,Christine,MOVIE,1983,R,110,horror,['US'],6.7,81922,23.418,6.7,248
+tm54450,Christine,MOVIE,1983,R,110,thriller,['US'],6.7,81922,23.418,6.7,248
+tm54450,Christine,MOVIE,1983,R,110,european,['US'],6.7,81922,23.418,6.7,248
+ts22082,Knight Rider,SHOW,1982,TV-PG,51,scifi,['US'],6.9,34115,50.267,6.9,249
+ts22082,Knight Rider,SHOW,1982,TV-PG,51,action,['US'],6.9,34115,50.267,6.9,249
+ts22082,Knight Rider,SHOW,1982,TV-PG,51,crime,['US'],6.9,34115,50.267,6.9,249
+ts22082,Knight Rider,SHOW,1982,TV-PG,51,drama,['US'],6.9,34115,50.267,6.9,249
+ts21715,Thomas & Friends,SHOW,1984,TV-Y,10,animation,['GB'],6.5,5104,42.196,6.5,74
+ts21715,Thomas & Friends,SHOW,1984,TV-Y,10,family,['GB'],6.5,5104,42.196,6.5,74
+ts21715,Thomas & Friends,SHOW,1984,TV-Y,10,comedy,['GB'],6.5,5104,42.196,6.5,74
+ts21715,Thomas & Friends,SHOW,1984,TV-Y,10,fantasy,['GB'],6.5,5104,42.196,6.5,74
+ts21715,Thomas & Friends,SHOW,1984,TV-Y,10,drama,['GB'],6.5,5104,42.196,6.5,74
+ts21715,Thomas & Friends,SHOW,1984,TV-Y,10,action,['GB'],6.5,5104,42.196,6.5,74
+ts21715,Thomas & Friends,SHOW,1984,TV-Y,10,music,['GB'],6.5,5104,42.196,6.5,74
+ts20678,Saved by the Bell,SHOW,1989,TV-G,23,family,['US'],7.1,35034,19.855,7.1,186
+ts20678,Saved by the Bell,SHOW,1989,TV-G,23,comedy,['US'],7.1,35034,19.855,7.1,186
+ts20678,Saved by the Bell,SHOW,1989,TV-G,23,romance,['US'],7.1,35034,19.855,7.1,186
+tm145608,Awakenings,MOVIE,1990,PG-13,120,drama,['US'],7.8,139240,12.23,7.8,253
+tm145608,Awakenings,MOVIE,1990,PG-13,120,european,['US'],7.8,139240,12.23,7.8,253
+ts25028,Wheel of Fortune,SHOW,1983,TV-G,26,family,['US'],6.7,3145,5.935,6.7,84
+tm147710,National Lampoon's Christmas Vacation,MOVIE,1989,PG-13,97,comedy,['US'],7.5,185760,18.862,7.5,97
+tm147710,National Lampoon's Christmas Vacation,MOVIE,1989,PG-13,97,european,['US'],7.5,185760,18.862,7.5,97
+tm142895,Lean On Me,MOVIE,1989,PG-13,105,drama,['US'],7.4,20680,19.449,7.4,44
+tm20712,Eddie Murphy Raw,MOVIE,1987,R,90,comedy,['US'],7.6,19757,7.992,7.6,289
+tm20712,Eddie Murphy Raw,MOVIE,1987,R,90,documentation,['US'],7.6,19757,7.992,7.6,289
+tm117580,She's Gotta Have It,MOVIE,1986,R,84,romance,['US'],6.7,14472,7.416,6.7,27
+tm117580,She's Gotta Have It,MOVIE,1986,R,84,comedy,['US'],6.7,14472,7.416,6.7,27
+ts23753,Major Dad,SHOW,1989,TV-PG,24,comedy,['US'],6.5,2922,9.849,6.5,77
+ts23753,Major Dad,SHOW,1989,TV-PG,24,family,['US'],6.5,2922,9.849,6.5,77
+tm130586,Endless Love,MOVIE,1981,R,116,romance,['US'],4.9,8524,19.116,4.9,255
+tm130586,Endless Love,MOVIE,1981,R,116,drama,['US'],4.9,8524,19.116,4.9,255
+ts987,Danger Mouse,SHOW,1981,TV-Y,14,animation,['GB'],7.4,3545,8.55,7.4,139
+ts987,Danger Mouse,SHOW,1981,TV-Y,14,comedy,['GB'],7.4,3545,8.55,7.4,139
+ts987,Danger Mouse,SHOW,1981,TV-Y,14,family,['GB'],7.4,3545,8.55,7.4,139
+ts987,Danger Mouse,SHOW,1981,TV-Y,14,scifi,['GB'],7.4,3545,8.55,7.4,139
+ts987,Danger Mouse,SHOW,1981,TV-Y,14,european,['GB'],7.4,3545,8.55,7.4,139
+tm721687,Vaashi,MOVIE,1983,Unrated,123,drama,['IN'],6.7,388,3.79,6.7,297
+tm721687,Vaashi,MOVIE,1983,Unrated,123,thriller,['IN'],6.7,388,3.79,6.7,297
+tm40103,Mobile Suit Gundam: Char's Counterattack,MOVIE,1988,Unrated,119,scifi,['JP'],7.3,1693,8.092,7.3,35
+tm40103,Mobile Suit Gundam: Char's Counterattack,MOVIE,1988,Unrated,119,animation,['JP'],7.3,1693,8.092,7.3,35
+tm40103,Mobile Suit Gundam: Char's Counterattack,MOVIE,1988,Unrated,119,action,['JP'],7.3,1693,8.092,7.3,35
+tm40103,Mobile Suit Gundam: Char's Counterattack,MOVIE,1988,Unrated,119,drama,['JP'],7.3,1693,8.092,7.3,35
+tm40103,Mobile Suit Gundam: Char's Counterattack,MOVIE,1988,Unrated,119,war,['JP'],7.3,1693,8.092,7.3,35
+tm125985,Mobile Suit Gundam II: Soldiers of Sorrow,MOVIE,1981,Unrated,133,animation,['JP'],7.2,1274,13.125,7.2,138
+tm125985,Mobile Suit Gundam II: Soldiers of Sorrow,MOVIE,1981,Unrated,133,scifi,['JP'],7.2,1274,13.125,7.2,138
+tm125985,Mobile Suit Gundam II: Soldiers of Sorrow,MOVIE,1981,Unrated,133,action,['JP'],7.2,1274,13.125,7.2,138
+tm125985,Mobile Suit Gundam II: Soldiers of Sorrow,MOVIE,1981,Unrated,133,drama,['JP'],7.2,1274,13.125,7.2,138
+tm125985,Mobile Suit Gundam II: Soldiers of Sorrow,MOVIE,1981,Unrated,133,war,['JP'],7.2,1274,13.125,7.2,138
+ts2760,Fireman Sam,SHOW,1987,TV-Y,10,animation,['GB'],6.1,1785,37.647,6.1,247
+ts2760,Fireman Sam,SHOW,1987,TV-Y,10,comedy,['GB'],6.1,1785,37.647,6.1,247
+ts2760,Fireman Sam,SHOW,1987,TV-Y,10,family,['GB'],6.1,1785,37.647,6.1,247
+ts2760,Fireman Sam,SHOW,1987,TV-Y,10,crime,['GB'],6.1,1785,37.647,6.1,247
+ts2760,Fireman Sam,SHOW,1987,TV-Y,10,european,['GB'],6.1,1785,37.647,6.1,247
+tm21953,Sam Kinison: Breaking the Rules,MOVIE,1987,R,50,comedy,['US'],7.2,660,1.843,7.2,87
+tm21953,Sam Kinison: Breaking the Rules,MOVIE,1987,R,50,documentation,['US'],7.2,660,1.843,7.2,87
+tm126769,Waiting for the Hearse,MOVIE,1985,Unrated,87,comedy,['AR'],8,6399,7.81,8,20
+tm152839,Tim Allen: Men Are Pigs,MOVIE,1990,Unrated,30,comedy,['US'],6.1,360,2.482,6.1,57
+tm152839,Tim Allen: Men Are Pigs,MOVIE,1990,Unrated,30,documentation,['US'],6.1,360,2.482,6.1,57
+tm49037,Mobile Suit Gundam III: Encounters in Space,MOVIE,1982,Unrated,144,action,['JP'],7.6,1236,12.741,7.6,169
+tm49037,Mobile Suit Gundam III: Encounters in Space,MOVIE,1982,Unrated,144,drama,['JP'],7.6,1236,12.741,7.6,169
+tm49037,Mobile Suit Gundam III: Encounters in Space,MOVIE,1982,Unrated,144,war,['JP'],7.6,1236,12.741,7.6,169
+tm49037,Mobile Suit Gundam III: Encounters in Space,MOVIE,1982,Unrated,144,animation,['JP'],7.6,1236,12.741,7.6,169
+tm49037,Mobile Suit Gundam III: Encounters in Space,MOVIE,1982,Unrated,144,scifi,['JP'],7.6,1236,12.741,7.6,169
+tm62924,Monty Python Live at the Hollywood Bowl,MOVIE,1982,R,81,comedy,['GB'],7.9,15230,6.833,7.9,82
+tm62924,Monty Python Live at the Hollywood Bowl,MOVIE,1982,R,81,documentation,['GB'],7.9,15230,6.833,7.9,82
+tm52815,Disco Dancer,MOVIE,1982,Unrated,106,drama,['IN'],6.4,1476,7.879,6.4,62
+tm52815,Disco Dancer,MOVIE,1982,Unrated,106,romance,['IN'],6.4,1476,7.879,6.4,62
+tm159912,Agneepath,MOVIE,1990,Unrated,174,drama,['IN'],7.6,8947,4.062,7.6,126
+tm159912,Agneepath,MOVIE,1990,Unrated,174,action,['IN'],7.6,8947,4.062,7.6,126
+tm159912,Agneepath,MOVIE,1990,Unrated,174,crime,['IN'],7.6,8947,4.062,7.6,126
+tm133914,Parrot Sketch Not Included: Twenty Years of Monty Python,MOVIE,1989,Unrated,72,comedy,['GB'],8.1,1522,1.801,8.1,98
+tm38736,Too Young The Hero,MOVIE,1988,Unrated,100,drama,['US'],6.7,502,1.485,6.7,300
+tm38736,Too Young The Hero,MOVIE,1988,Unrated,100,war,['US'],6.7,502,1.485,6.7,300
+tm51083,A Stoning in Fulham County,MOVIE,1988,Unrated,120,thriller,['US'],5.9,387,1.01,5.9,230
+tm51083,A Stoning in Fulham County,MOVIE,1988,Unrated,120,crime,['US'],5.9,387,1.01,5.9,230
+tm51083,A Stoning in Fulham County,MOVIE,1988,Unrated,120,drama,['US'],5.9,387,1.01,5.9,230
+tm137013,The Ryan White Story,MOVIE,1989,Unrated,102,drama,['US'],7.2,863,1.981,7.2,219
+tm157603,Dil,MOVIE,1990,Unrated,172,drama,['IN'],6.6,5316,3.992,6.6,225
+tm157603,Dil,MOVIE,1990,Unrated,172,comedy,['IN'],6.6,5316,3.992,6.6,225
+tm157603,Dil,MOVIE,1990,Unrated,172,romance,['IN'],6.6,5316,3.992,6.6,225
+tm258072,Adam: His Song Continues,MOVIE,1986,Unrated,100,crime,['US'],7,212,1.603,7,17
+tm258072,Adam: His Song Continues,MOVIE,1986,Unrated,100,drama,['US'],7,212,1.603,7,17
+tm114356,The George McKenna Story,MOVIE,1988,Unrated,100,drama,['US'],6,921,2.296,6,124
+tm157853,In Defense of a Married Man,MOVIE,1990,Unrated,94,drama,['US'],5.6,207,2.444,5.6,150
+tm157853,In Defense of a Married Man,MOVIE,1990,Unrated,94,crime,['US'],5.6,207,2.444,5.6,150
+tm132164,Bill Hicks: Sane Man,MOVIE,1989,R,80,comedy,['US'],6.510860656,23439.38247,3.377,6.510860656,44
+tm446654,Mujrim,MOVIE,1989,Unrated,162,drama,['IN'],5.4,197,1.418,5.4,209
+tm446654,Mujrim,MOVIE,1989,Unrated,162,action,['IN'],5.4,197,1.418,5.4,209
+tm446654,Mujrim,MOVIE,1989,Unrated,162,crime,['IN'],5.4,197,1.418,5.4,209
+tm348735,Aakhri Adaalat,MOVIE,1988,Unrated,148,action,['IN'],5.1,92,1.374,5.1,203
+tm348735,Aakhri Adaalat,MOVIE,1988,Unrated,148,crime,['IN'],5.1,92,1.374,5.1,203
+tm348735,Aakhri Adaalat,MOVIE,1988,Unrated,148,thriller,['IN'],5.1,92,1.374,5.1,203
+tm151332,"Alexandria, Again and Forever",MOVIE,1989,Unrated,105,drama,"['FR', 'EG']",6.5,658,0.817,6.5,60
+tm342996,Duniya,MOVIE,1984,Unrated,170,action,['IN'],6.3,245,1.394,6.3,274
+tm342996,Duniya,MOVIE,1984,Unrated,170,drama,['IN'],6.3,245,1.394,6.3,274
+tm24110,Strange Voices,MOVIE,1987,Unrated,100,drama,['US'],6.3,360,2.76,6.3,144
+tm371359,Jaal,MOVIE,1986,Unrated,159,action,['IN'],5.2,125,3.366,5.2,159
+tm371359,Jaal,MOVIE,1986,Unrated,159,drama,['IN'],5.2,125,3.366,5.2,159
+tm371359,Jaal,MOVIE,1986,Unrated,159,thriller,['IN'],5.2,125,3.366,5.2,159
+tm55091,Quiet Victory: The Charlie Wedemeyer Story,MOVIE,1988,Unrated,100,drama,['US'],7.2,144,2.246,7.2,27
+ts63001,High Risk,SHOW,1988,TV-PG,50,comedy,['US'],3.8,6,1.4,3.8,296
+tm311264,Muqaddar Ka Faisla,MOVIE,1987,Unrated,172,action,['IN'],4.8,69,2.236,4.8,240
+tm311264,Muqaddar Ka Faisla,MOVIE,1987,Unrated,172,comedy,['IN'],4.8,69,2.236,4.8,240
+tm311264,Muqaddar Ka Faisla,MOVIE,1987,Unrated,172,drama,['IN'],4.8,69,2.236,4.8,240
+tm311264,Muqaddar Ka Faisla,MOVIE,1987,Unrated,172,family,['IN'],4.8,69,2.236,4.8,240
+tm411457,Pyar Ke Do Pal,MOVIE,1986,Unrated,125,drama,['IN'],6.1,66,1.756,6.1,149
+tm411457,Pyar Ke Do Pal,MOVIE,1986,Unrated,125,action,['IN'],6.1,66,1.756,6.1,149
+tm172482,Sohni Mahiwal,MOVIE,1984,Unrated,160,romance,['IN'],6.1,297,6.052,6.1,188
+tm172482,Sohni Mahiwal,MOVIE,1984,Unrated,160,drama,['IN'],6.1,297,6.052,6.1,188
+tm172482,Sohni Mahiwal,MOVIE,1984,Unrated,160,action,['IN'],6.1,297,6.052,6.1,188
+tm419052,Ek Jaan Hain Hum,MOVIE,1983,Unrated,151,family,['IN'],6.3,70,0.986,6.3,178
+tm419052,Ek Jaan Hain Hum,MOVIE,1983,Unrated,151,romance,['IN'],6.3,70,0.986,6.3,178
+tm47673,An Egyptian Story,MOVIE,1982,Unrated,129,drama,['EG'],7.3,1126,1.77,7.3,251
+tm47673,An Egyptian Story,MOVIE,1982,Unrated,129,fantasy,['EG'],7.3,1126,1.77,7.3,251
+tm52274,The Little Wars,MOVIE,1982,Unrated,108,war,"['FR', 'LB']",6.3,152,1.956,6.3,256
+tm52274,The Little Wars,MOVIE,1982,Unrated,108,drama,"['FR', 'LB']",6.3,152,1.956,6.3,256
+tm52274,The Little Wars,MOVIE,1982,Unrated,108,european,"['FR', 'LB']",6.3,152,1.956,6.3,256
+tm147829,Unspeakable Acts,MOVIE,1990,Unrated,100,drama,['US'],6.1,464,2.075,6.1,28
+ts20981,Survivor,SHOW,2000,TV-PG,48,reality,['US'],7.4,24687,54.19,7.4,1
+tm107744,Mission: Impossible,MOVIE,1996,PG-13,110,thriller,['US'],7.1,420673,41.115,7.1,63
+tm107744,Mission: Impossible,MOVIE,1996,PG-13,110,action,['US'],7.1,420673,41.115,7.1,63
+ts22176,Stargate SG-1,SHOW,1997,TV-PG,44,scifi,"['CA', 'US']",8.4,90196,88.851,8.4,246
+ts22176,Stargate SG-1,SHOW,1997,TV-PG,44,drama,"['CA', 'US']",8.4,90196,88.851,8.4,246
+ts22176,Stargate SG-1,SHOW,1997,TV-PG,44,action,"['CA', 'US']",8.4,90196,88.851,8.4,246
+tm15897,Se7en,MOVIE,1995,R,127,crime,['US'],8.6,1606270,51.633,8.6,93
+tm15897,Se7en,MOVIE,1995,R,127,thriller,['US'],8.6,1606270,51.633,8.6,93
+tm15897,Se7en,MOVIE,1995,R,127,drama,['US'],8.6,1606270,51.633,8.6,93
+ts21223,Pokémon,SHOW,1997,TV-Y7,22,action,['JP'],7.4,198,115.356,7.4,293
+ts21223,Pokémon,SHOW,1997,TV-Y7,22,scifi,['JP'],7.4,198,115.356,7.4,293
+ts21223,Pokémon,SHOW,1997,TV-Y7,22,animation,['JP'],7.4,198,115.356,7.4,293
+ts21223,Pokémon,SHOW,1997,TV-Y7,22,comedy,['JP'],7.4,198,115.356,7.4,293
+ts21223,Pokémon,SHOW,1997,TV-Y7,22,fantasy,['JP'],7.4,198,115.356,7.4,293
+ts21223,Pokémon,SHOW,1997,TV-Y7,22,family,['JP'],7.4,198,115.356,7.4,293
+tm191013,Boogie Nights,MOVIE,1997,R,156,drama,['US'],7.9,261563,20.436,7.9,64
+tm122434,Forrest Gump,MOVIE,1994,PG-13,142,drama,['US'],8.8,2021343,63.449,8.8,76
+tm122434,Forrest Gump,MOVIE,1994,PG-13,142,romance,['US'],8.8,2021343,63.449,8.8,76
+tm25947,Snatch,MOVIE,2000,R,103,crime,"['US', 'GB']",8.3,841435,25.203,8.3,111
+tm25947,Snatch,MOVIE,2000,R,103,comedy,"['US', 'GB']",8.3,841435,25.203,8.3,111
+tm43808,The Talented Mr. Ripley,MOVIE,1999,R,139,thriller,['US'],7.4,207524,13.78,7.4,51
+tm43808,The Talented Mr. Ripley,MOVIE,1999,R,139,drama,['US'],7.4,207524,13.78,7.4,51
+tm43808,The Talented Mr. Ripley,MOVIE,1999,R,139,crime,['US'],7.4,207524,13.78,7.4,51
+ts20339,One Piece,SHOW,1999,TV-14,23,animation,['JP'],8.8,117129,143.457,8.8,202
+ts20339,One Piece,SHOW,1999,TV-14,23,action,['JP'],8.8,117129,143.457,8.8,202
+ts20339,One Piece,SHOW,1999,TV-14,23,comedy,['JP'],8.8,117129,143.457,8.8,202
+ts20339,One Piece,SHOW,1999,TV-14,23,drama,['JP'],8.8,117129,143.457,8.8,202
+ts20339,One Piece,SHOW,1999,TV-14,23,fantasy,['JP'],8.8,117129,143.457,8.8,202
+ts5145,The Challenge,SHOW,1998,TV-14,40,reality,['US'],7.8,3362,18.075,7.8,136
+ts5145,The Challenge,SHOW,1998,TV-14,40,comedy,['US'],7.8,3362,18.075,7.8,136
+ts5145,The Challenge,SHOW,1998,TV-14,40,drama,['US'],7.8,3362,18.075,7.8,136
+ts5145,The Challenge,SHOW,1998,TV-14,40,scifi,['US'],7.8,3362,18.075,7.8,136
+tm191110,Titanic,MOVIE,1997,PG-13,194,drama,['US'],7.9,1146825,155.683,7.9,250
+tm191110,Titanic,MOVIE,1997,PG-13,194,romance,['US'],7.9,1146825,155.683,7.9,250
+ts34435,Cowboy Bebop,SHOW,1998,TV-14,25,animation,['JP'],8.9,115448,35.402,8.9,208
+ts34435,Cowboy Bebop,SHOW,1998,TV-14,25,action,['JP'],8.9,115448,35.402,8.9,208
+ts34435,Cowboy Bebop,SHOW,1998,TV-14,25,scifi,['JP'],8.9,115448,35.402,8.9,208
+ts34435,Cowboy Bebop,SHOW,1998,TV-14,25,western,['JP'],8.9,115448,35.402,8.9,208
+ts34435,Cowboy Bebop,SHOW,1998,TV-14,25,comedy,['JP'],8.9,115448,35.402,8.9,208
+ts34435,Cowboy Bebop,SHOW,1998,TV-14,25,drama,['JP'],8.9,115448,35.402,8.9,208
+ts34435,Cowboy Bebop,SHOW,1998,TV-14,25,thriller,['JP'],8.9,115448,35.402,8.9,208
+tm192037,Starship Troopers,MOVIE,1997,R,129,scifi,['US'],7.3,291452,29.5,7.3,220
+tm192037,Starship Troopers,MOVIE,1997,R,129,action,['US'],7.3,291452,29.5,7.3,220
+tm192037,Starship Troopers,MOVIE,1997,R,129,thriller,['US'],7.3,291452,29.5,7.3,220
+tm27395,Mission: Impossible II,MOVIE,2000,PG-13,123,thriller,['US'],6.1,337987,29.392,6.1,239
+tm27395,Mission: Impossible II,MOVIE,2000,PG-13,123,action,['US'],6.1,337987,29.392,6.1,239
+tm113513,Dumb and Dumber,MOVIE,1994,PG-13,107,comedy,['US'],7.3,379999,31.852,7.3,225
+ts20983,Neon Genesis Evangelion,SHOW,1995,TV-14,24,drama,['JP'],8.5,66629,49.27,8.5,50
+ts20983,Neon Genesis Evangelion,SHOW,1995,TV-14,24,scifi,['JP'],8.5,66629,49.27,8.5,50
+ts20983,Neon Genesis Evangelion,SHOW,1995,TV-14,24,animation,['JP'],8.5,66629,49.27,8.5,50
+ts20983,Neon Genesis Evangelion,SHOW,1995,TV-14,24,action,['JP'],8.5,66629,49.27,8.5,50
+ts20983,Neon Genesis Evangelion,SHOW,1995,TV-14,24,fantasy,['JP'],8.5,66629,49.27,8.5,50
+ts20983,Neon Genesis Evangelion,SHOW,1995,TV-14,24,thriller,['JP'],8.5,66629,49.27,8.5,50
+tm192405,Gattaca,MOVIE,1997,PG-13,106,scifi,['US'],7.8,300701,17.789,7.8,297
+tm192405,Gattaca,MOVIE,1997,PG-13,106,thriller,['US'],7.8,300701,17.789,7.8,297
+tm192405,Gattaca,MOVIE,1997,PG-13,106,romance,['US'],7.8,300701,17.789,7.8,297
+tm192405,Gattaca,MOVIE,1997,PG-13,106,drama,['US'],7.8,300701,17.789,7.8,297
+tm116655,Léon: The Professional,MOVIE,1994,R,111,crime,"['US', 'FR']",8.5,1137357,51.406,8.5,47
+tm116655,Léon: The Professional,MOVIE,1994,R,111,drama,"['US', 'FR']",8.5,1137357,51.406,8.5,47
+tm116655,Léon: The Professional,MOVIE,1994,R,111,action,"['US', 'FR']",8.5,1137357,51.406,8.5,47
+tm116655,Léon: The Professional,MOVIE,1994,R,111,thriller,"['US', 'FR']",8.5,1137357,51.406,8.5,47
+tm116655,Léon: The Professional,MOVIE,1994,R,111,european,"['US', 'FR']",8.5,1137357,51.406,8.5,47
+ts21567,Gilmore Girls,SHOW,2000,TV-14,46,comedy,['US'],8.2,121462,58.578,8.2,79
+ts21567,Gilmore Girls,SHOW,2000,TV-14,46,drama,['US'],8.2,121462,58.578,8.2,79
+tm116488,Natural Born Killers,MOVIE,1994,R,118,thriller,['US'],7.3,11,21.933,7.3,111
+tm116488,Natural Born Killers,MOVIE,1994,R,118,drama,['US'],7.3,11,21.933,7.3,111
+tm116488,Natural Born Killers,MOVIE,1994,R,118,crime,['US'],7.3,11,21.933,7.3,111
+tm116488,Natural Born Killers,MOVIE,1994,R,118,action,['US'],7.3,11,21.933,7.3,111
+tm11556,The Quick and the Dead,MOVIE,1995,R,107,action,"['JP', 'US']",6.5,93767,13.056,6.5,96
+tm11556,The Quick and the Dead,MOVIE,1995,R,107,thriller,"['JP', 'US']",6.5,93767,13.056,6.5,96
+tm11556,The Quick and the Dead,MOVIE,1995,R,107,western,"['JP', 'US']",6.5,93767,13.056,6.5,96
+tm11556,The Quick and the Dead,MOVIE,1995,R,107,romance,"['JP', 'US']",6.5,93767,13.056,6.5,96
+tm56574,You've Got Mail,MOVIE,1998,PG,119,comedy,['US'],6.7,211635,21.724,6.7,289
+tm56574,You've Got Mail,MOVIE,1998,PG,119,romance,['US'],6.7,211635,21.724,6.7,289
+tm56574,You've Got Mail,MOVIE,1998,PG,119,drama,['US'],6.7,211635,21.724,6.7,289
+ts20960,Power Rangers,SHOW,1993,TV-Y7,22,action,['US'],6.5,22110,19.699,6.5,273
+ts20960,Power Rangers,SHOW,1993,TV-Y7,22,scifi,['US'],6.5,22110,19.699,6.5,273
+ts20960,Power Rangers,SHOW,1993,TV-Y7,22,fantasy,['US'],6.5,22110,19.699,6.5,273
+ts20960,Power Rangers,SHOW,1993,TV-Y7,22,family,['US'],6.5,22110,19.699,6.5,273
+tm53991,Big Daddy,MOVIE,1999,PG-13,93,drama,['US'],6.4,215053,26.848,6.4,59
+tm53991,Big Daddy,MOVIE,1999,PG-13,93,comedy,['US'],6.4,215053,26.848,6.4,59
+tm53991,Big Daddy,MOVIE,1999,PG-13,93,european,['US'],6.4,215053,26.848,6.4,59
+tm49178,Vampires,MOVIE,1998,R,104,fantasy,['US'],6.1,58670,10.108,6.1,22
+tm49178,Vampires,MOVIE,1998,R,104,action,['US'],6.1,58670,10.108,6.1,22
+tm49178,Vampires,MOVIE,1998,R,104,horror,['US'],6.1,58670,10.108,6.1,22
+tm49178,Vampires,MOVIE,1998,R,104,thriller,['US'],6.1,58670,10.108,6.1,22
+ts25252,Yu-Gi-Oh!,SHOW,1998,TV-Y,22,scifi,['JP'],7.3,21113,33.504,7.3,235
+ts25252,Yu-Gi-Oh!,SHOW,1998,TV-Y,22,action,['JP'],7.3,21113,33.504,7.3,235
+ts25252,Yu-Gi-Oh!,SHOW,1998,TV-Y,22,family,['JP'],7.3,21113,33.504,7.3,235
+ts25252,Yu-Gi-Oh!,SHOW,1998,TV-Y,22,fantasy,['JP'],7.3,21113,33.504,7.3,235
+ts25252,Yu-Gi-Oh!,SHOW,1998,TV-Y,22,animation,['JP'],7.3,21113,33.504,7.3,235
+ts25252,Yu-Gi-Oh!,SHOW,1998,TV-Y,22,comedy,['JP'],7.3,21113,33.504,7.3,235
+ts25252,Yu-Gi-Oh!,SHOW,1998,TV-Y,22,drama,['JP'],7.3,21113,33.504,7.3,235
+tm191989,Donnie Brasco,MOVIE,1997,R,127,drama,['US'],7.7,303868,22.225,7.7,192
+tm191989,Donnie Brasco,MOVIE,1997,R,127,thriller,['US'],7.7,303868,22.225,7.7,192
+tm191989,Donnie Brasco,MOVIE,1997,R,127,crime,['US'],7.7,303868,22.225,7.7,192
+ts22193,The Magic School Bus,SHOW,1994,TV-Y,26,animation,"['CA', 'US']",7.8,9829,16.83,7.8,212
+ts22193,The Magic School Bus,SHOW,1994,TV-Y,26,scifi,"['CA', 'US']",7.8,9829,16.83,7.8,212
+ts22193,The Magic School Bus,SHOW,1994,TV-Y,26,comedy,"['CA', 'US']",7.8,9829,16.83,7.8,212
+ts22193,The Magic School Bus,SHOW,1994,TV-Y,26,family,"['CA', 'US']",7.8,9829,16.83,7.8,212
+ts22193,The Magic School Bus,SHOW,1994,TV-Y,26,fantasy,"['CA', 'US']",7.8,9829,16.83,7.8,212
+ts22489,Goosebumps,SHOW,1995,TV-PG,22,scifi,"['US', 'CA']",7.6,13493,63.687,7.6,52
+ts22489,Goosebumps,SHOW,1995,TV-PG,22,thriller,"['US', 'CA']",7.6,13493,63.687,7.6,52
+ts22489,Goosebumps,SHOW,1995,TV-PG,22,family,"['US', 'CA']",7.6,13493,63.687,7.6,52
+ts22489,Goosebumps,SHOW,1995,TV-PG,22,fantasy,"['US', 'CA']",7.6,13493,63.687,7.6,52
+ts22489,Goosebumps,SHOW,1995,TV-PG,22,horror,"['US', 'CA']",7.6,13493,63.687,7.6,52
+ts22489,Goosebumps,SHOW,1995,TV-PG,22,music,"['US', 'CA']",7.6,13493,63.687,7.6,52
+ts21034,InuYasha,SHOW,2000,TV-14,25,scifi,['JP'],7.9,15823,62.355,7.9,98
+ts21034,InuYasha,SHOW,2000,TV-14,25,action,['JP'],7.9,15823,62.355,7.9,98
+ts21034,InuYasha,SHOW,2000,TV-14,25,fantasy,['JP'],7.9,15823,62.355,7.9,98
+ts21034,InuYasha,SHOW,2000,TV-14,25,romance,['JP'],7.9,15823,62.355,7.9,98
+ts21034,InuYasha,SHOW,2000,TV-14,25,animation,['JP'],7.9,15823,62.355,7.9,98
+ts21034,InuYasha,SHOW,2000,TV-14,25,comedy,['JP'],7.9,15823,62.355,7.9,98
+ts21034,InuYasha,SHOW,2000,TV-14,25,drama,['JP'],7.9,15823,62.355,7.9,98
+tm121879,A River Runs Through It,MOVIE,1992,PG,123,drama,['US'],7.2,59854,19.58,7.2,9
+tm44402,"Girl, Interrupted",MOVIE,1999,R,127,drama,"['DE', 'US']",7.3,183154,20.424,7.3,108
+tm44402,"Girl, Interrupted",MOVIE,1999,R,127,european,"['DE', 'US']",7.3,183154,20.424,7.3,108
+tm187187,Last Action Hero,MOVIE,1993,PG-13,131,action,['US'],6.4,150498,22.196,6.4,87
+tm187187,Last Action Hero,MOVIE,1993,PG-13,131,fantasy,['US'],6.4,150498,22.196,6.4,87
+tm187187,Last Action Hero,MOVIE,1993,PG-13,131,comedy,['US'],6.4,150498,22.196,6.4,87
+tm187187,Last Action Hero,MOVIE,1993,PG-13,131,family,['US'],6.4,150498,22.196,6.4,87
+ts16919,All That,SHOW,1994,TV-G,22,comedy,['US'],7.5,7718,6.688,7.5,89
+ts16919,All That,SHOW,1994,TV-G,22,family,['US'],7.5,7718,6.688,7.5,89
+ts16919,All That,SHOW,1994,TV-G,22,music,['US'],7.5,7718,6.688,7.5,89
+tm6859,My Girl,MOVIE,1991,PG,103,drama,['US'],6.9,80590,20.545,6.9,140
+tm6859,My Girl,MOVIE,1991,PG,103,family,['US'],6.9,80590,20.545,6.9,140
+tm6859,My Girl,MOVIE,1991,PG,103,romance,['US'],6.9,80590,20.545,6.9,140
+tm6859,My Girl,MOVIE,1991,PG,103,comedy,['US'],6.9,80590,20.545,6.9,140
+tm6859,My Girl,MOVIE,1991,PG,103,european,['US'],6.9,80590,20.545,6.9,140
+tm118238,Wyatt Earp,MOVIE,1994,PG-13,191,western,['US'],6.7,50774,14.677,6.7,258
+tm118238,Wyatt Earp,MOVIE,1994,PG-13,191,crime,['US'],6.7,50774,14.677,6.7,258
+tm118238,Wyatt Earp,MOVIE,1994,PG-13,191,action,['US'],6.7,50774,14.677,6.7,258
+tm118238,Wyatt Earp,MOVIE,1994,PG-13,191,drama,['US'],6.7,50774,14.677,6.7,258
+tm111163,Eraser,MOVIE,1996,R,115,thriller,"['US', 'CA']",6.1,110921,19.437,6.1,198
+tm111163,Eraser,MOVIE,1996,R,115,action,"['US', 'CA']",6.1,110921,19.437,6.1,198
+tm111163,Eraser,MOVIE,1996,R,115,drama,"['US', 'CA']",6.1,110921,19.437,6.1,198
+tm111163,Eraser,MOVIE,1996,R,115,crime,"['US', 'CA']",6.1,110921,19.437,6.1,198
+tm190835,Neon Genesis Evangelion: The End of Evangelion,MOVIE,1997,Unrated,87,action,['JP'],8,53152,32.569,8,64
+tm190835,Neon Genesis Evangelion: The End of Evangelion,MOVIE,1997,Unrated,87,drama,['JP'],8,53152,32.569,8,64
+tm190835,Neon Genesis Evangelion: The End of Evangelion,MOVIE,1997,Unrated,87,animation,['JP'],8,53152,32.569,8,64
+tm190835,Neon Genesis Evangelion: The End of Evangelion,MOVIE,1997,Unrated,87,scifi,['JP'],8,53152,32.569,8,64
+tm190835,Neon Genesis Evangelion: The End of Evangelion,MOVIE,1997,Unrated,87,fantasy,['JP'],8,53152,32.569,8,64
+tm192769,Vegas Vacation,MOVIE,1997,PG,94,comedy,['US'],5.9,49377,12.537,5.9,136
+tm187791,In the Line of Fire,MOVIE,1993,R,128,drama,['US'],7.2,102916,19.8,7.2,208
+tm187791,In the Line of Fire,MOVIE,1993,R,128,thriller,['US'],7.2,102916,19.8,7.2,208
+tm187791,In the Line of Fire,MOVIE,1993,R,128,crime,['US'],7.2,102916,19.8,7.2,208
+tm187791,In the Line of Fire,MOVIE,1993,R,128,action,['US'],7.2,102916,19.8,7.2,208
+tm113576,Little Women,MOVIE,1994,PG,115,drama,['US'],7.3,58178,13.683,7.3,123
+tm113576,Little Women,MOVIE,1994,PG,115,romance,['US'],7.3,58178,13.683,7.3,123
+tm113576,Little Women,MOVIE,1994,PG,115,family,['US'],7.3,58178,13.683,7.3,123
+tm65686,U.S. Marshals,MOVIE,1998,PG-13,131,thriller,['US'],6.5,105286,24.205,6.5,146
+tm65686,U.S. Marshals,MOVIE,1998,PG-13,131,crime,['US'],6.5,105286,24.205,6.5,146
+tm65686,U.S. Marshals,MOVIE,1998,PG-13,131,action,['US'],6.5,105286,24.205,6.5,146
+ts8570,Barney & Friends,SHOW,1992,TV-G,28,comedy,['US'],3.8,9624,14.641,3.8,291
+ts8570,Barney & Friends,SHOW,1992,TV-G,28,family,['US'],3.8,9624,14.641,3.8,291
+tm191387,Anaconda,MOVIE,1997,PG-13,89,horror,"['PE', 'US', 'BR']",4.8,104213,34.405,4.8,299
+tm191387,Anaconda,MOVIE,1997,PG-13,89,thriller,"['PE', 'US', 'BR']",4.8,104213,34.405,4.8,299
+tm191387,Anaconda,MOVIE,1997,PG-13,89,action,"['PE', 'US', 'BR']",4.8,104213,34.405,4.8,299
+ts27693,Kenan & Kel,SHOW,1996,TV-Y7,25,family,['US'],7.8,15620,33.544,7.8,49
+ts27693,Kenan & Kel,SHOW,1996,TV-Y7,25,comedy,['US'],7.8,15620,33.544,7.8,49
+tm19494,The Replacements,MOVIE,2000,PG-13,118,comedy,['US'],6.6,64771,30.982,6.6,37
+tm19494,The Replacements,MOVIE,2000,PG-13,118,sport,['US'],6.6,64771,30.982,6.6,37
+tm191772,Seven Years in Tibet,MOVIE,1997,PG-13,136,action,['US'],7.1,142903,13.766,7.1,23
+tm191772,Seven Years in Tibet,MOVIE,1997,PG-13,136,drama,['US'],7.1,142903,13.766,7.1,23
+tm191772,Seven Years in Tibet,MOVIE,1997,PG-13,136,history,['US'],7.1,142903,13.766,7.1,23
+tm191772,Seven Years in Tibet,MOVIE,1997,PG-13,136,war,['US'],7.1,142903,13.766,7.1,23
+tm12499,The Net,MOVIE,1995,PG-13,114,thriller,['US'],5.9,66667,15.935,5.9,20
+tm12499,The Net,MOVIE,1995,PG-13,114,action,['US'],5.9,66667,15.935,5.9,20
+tm12499,The Net,MOVIE,1995,PG-13,114,crime,['US'],5.9,66667,15.935,5.9,20
+tm12499,The Net,MOVIE,1995,PG-13,114,drama,['US'],5.9,66667,15.935,5.9,20
+tm186589,Cliffhanger,MOVIE,1993,R,112,action,"['IT', 'US', 'FR']",6.5,128972,27.78,6.5,96
+tm186589,Cliffhanger,MOVIE,1993,R,112,thriller,"['IT', 'US', 'FR']",6.5,128972,27.78,6.5,96
+tm186589,Cliffhanger,MOVIE,1993,R,112,comedy,"['IT', 'US', 'FR']",6.5,128972,27.78,6.5,96
+tm186589,Cliffhanger,MOVIE,1993,R,112,animation,"['IT', 'US', 'FR']",6.5,128972,27.78,6.5,96
+tm189764,Menace II Society,MOVIE,1993,R,97,drama,['US'],7.5,58179,13.928,7.5,46
+tm189764,Menace II Society,MOVIE,1993,R,97,crime,['US'],7.5,58179,13.928,7.5,46
+tm189764,Menace II Society,MOVIE,1993,R,97,thriller,['US'],7.5,58179,13.928,7.5,46
+tm10739,Johnny Mnemonic,MOVIE,1995,R,97,action,"['CA', 'US']",5.6,71563,10.75,5.6,294
+tm10739,Johnny Mnemonic,MOVIE,1995,R,97,drama,"['CA', 'US']",5.6,71563,10.75,5.6,294
+tm10739,Johnny Mnemonic,MOVIE,1995,R,97,scifi,"['CA', 'US']",5.6,71563,10.75,5.6,294
+tm10739,Johnny Mnemonic,MOVIE,1995,R,97,thriller,"['CA', 'US']",5.6,71563,10.75,5.6,294
+tm1822,3 Ninjas Kick Back,MOVIE,1994,PG,93,comedy,"['JP', 'US']",4.5,9321,12.603,4.5,10
+tm1822,3 Ninjas Kick Back,MOVIE,1994,PG,93,family,"['JP', 'US']",4.5,9321,12.603,4.5,10
+tm1822,3 Ninjas Kick Back,MOVIE,1994,PG,93,action,"['JP', 'US']",4.5,9321,12.603,4.5,10
+tm1822,3 Ninjas Kick Back,MOVIE,1994,PG,93,sport,"['JP', 'US']",4.5,9321,12.603,4.5,10
+tm55369,Edge of Seventeen,MOVIE,1998,R,104,romance,['US'],6.8,6549,6.276,6.8,150
+tm55369,Edge of Seventeen,MOVIE,1998,R,104,drama,['US'],6.8,6549,6.276,6.8,150
+tm55369,Edge of Seventeen,MOVIE,1998,R,104,comedy,['US'],6.8,6549,6.276,6.8,150
+ts251477,My First Errand,SHOW,1991,TV-G,18,documentation,['JP'],6.510860656,23439.38247,7.73,6.510860656,243
+ts251477,My First Errand,SHOW,1991,TV-G,18,family,['JP'],6.510860656,23439.38247,7.73,6.510860656,243
+ts251477,My First Errand,SHOW,1991,TV-G,18,reality,['JP'],6.510860656,23439.38247,7.73,6.510860656,243
+tm192431,The Devil's Own,MOVIE,1997,R,107,crime,['US'],6.2,65323,12.863,6.2,37
+tm192431,The Devil's Own,MOVIE,1997,R,107,thriller,['US'],6.2,65323,12.863,6.2,37
+tm192431,The Devil's Own,MOVIE,1997,R,107,drama,['US'],6.2,65323,12.863,6.2,37
+tm192431,The Devil's Own,MOVIE,1997,R,107,action,['US'],6.2,65323,12.863,6.2,37
+tm192431,The Devil's Own,MOVIE,1997,R,107,european,['US'],6.2,65323,12.863,6.2,37
+ts22286,Cardcaptor Sakura,SHOW,1998,TV-Y7,25,scifi,['JP'],8,5008,35.757,8,297
+ts22286,Cardcaptor Sakura,SHOW,1998,TV-Y7,25,animation,['JP'],8,5008,35.757,8,297
+ts22286,Cardcaptor Sakura,SHOW,1998,TV-Y7,25,action,['JP'],8,5008,35.757,8,297
+ts22286,Cardcaptor Sakura,SHOW,1998,TV-Y7,25,comedy,['JP'],8,5008,35.757,8,297
+ts22286,Cardcaptor Sakura,SHOW,1998,TV-Y7,25,drama,['JP'],8,5008,35.757,8,297
+ts22286,Cardcaptor Sakura,SHOW,1998,TV-Y7,25,family,['JP'],8,5008,35.757,8,297
+ts22286,Cardcaptor Sakura,SHOW,1998,TV-Y7,25,fantasy,['JP'],8,5008,35.757,8,297
+ts22286,Cardcaptor Sakura,SHOW,1998,TV-Y7,25,romance,['JP'],8,5008,35.757,8,297
+tm192199,Spawn,MOVIE,1997,PG-13,96,scifi,['US'],5.2,68184,16.989,5.2,20
+tm192199,Spawn,MOVIE,1997,PG-13,96,action,['US'],5.2,68184,16.989,5.2,20
+tm192199,Spawn,MOVIE,1997,PG-13,96,drama,['US'],5.2,68184,16.989,5.2,20
+tm192199,Spawn,MOVIE,1997,PG-13,96,horror,['US'],5.2,68184,16.989,5.2,20
+ts11397,Adventures of Sonic the Hedgehog,SHOW,1993,TV-Y7,22,scifi,['US'],6.2,3902,13.313,6.2,185
+ts11397,Adventures of Sonic the Hedgehog,SHOW,1993,TV-Y7,22,animation,['US'],6.2,3902,13.313,6.2,185
+ts11397,Adventures of Sonic the Hedgehog,SHOW,1993,TV-Y7,22,action,['US'],6.2,3902,13.313,6.2,185
+ts11397,Adventures of Sonic the Hedgehog,SHOW,1993,TV-Y7,22,comedy,['US'],6.2,3902,13.313,6.2,185
+ts11397,Adventures of Sonic the Hedgehog,SHOW,1993,TV-Y7,22,family,['US'],6.2,3902,13.313,6.2,185
+ts11397,Adventures of Sonic the Hedgehog,SHOW,1993,TV-Y7,22,fantasy,['US'],6.2,3902,13.313,6.2,185
+ts11397,Adventures of Sonic the Hedgehog,SHOW,1993,TV-Y7,22,western,['US'],6.2,3902,13.313,6.2,185
+tm56033,Croupier,MOVIE,1998,R,94,drama,"['IE', 'GB', 'DE', 'FR']",7,21599,8.381,7,207
+tm56033,Croupier,MOVIE,1998,R,94,european,"['IE', 'GB', 'DE', 'FR']",7,21599,8.381,7,207
+tm56033,Croupier,MOVIE,1998,R,94,crime,"['IE', 'GB', 'DE', 'FR']",7,21599,8.381,7,207
+ts21581,Girlfriends,SHOW,2000,TV-PG,21,drama,['US'],7.2,4528,12.163,7.2,50
+ts21581,Girlfriends,SHOW,2000,TV-PG,21,comedy,['US'],7.2,4528,12.163,7.2,50
+tm117488,The Next Karate Kid,MOVIE,1994,PG,107,action,['US'],4.5,30422,20.185,4.5,52
+tm117488,The Next Karate Kid,MOVIE,1994,PG,107,drama,['US'],4.5,30422,20.185,4.5,52
+tm117488,The Next Karate Kid,MOVIE,1994,PG,107,family,['US'],4.5,30422,20.185,4.5,52
+tm117488,The Next Karate Kid,MOVIE,1994,PG,107,sport,['US'],4.5,30422,20.185,4.5,52
+tm117488,The Next Karate Kid,MOVIE,1994,PG,107,romance,['US'],4.5,30422,20.185,4.5,52
+tm190811,Geronimo: An American Legend,MOVIE,1993,PG-13,115,western,['US'],6.5,11709,8.136,6.5,116
+tm190811,Geronimo: An American Legend,MOVIE,1993,PG-13,115,history,['US'],6.5,11709,8.136,6.5,116
+tm190811,Geronimo: An American Legend,MOVIE,1993,PG-13,115,drama,['US'],6.5,11709,8.136,6.5,116
+tm191431,Double Team,MOVIE,1997,R,93,action,"['HK', 'US']",4.8,34396,14.599,4.8,196
+tm191431,Double Team,MOVIE,1997,R,93,scifi,"['HK', 'US']",4.8,34396,14.599,4.8,196
+tm191431,Double Team,MOVIE,1997,R,93,comedy,"['HK', 'US']",4.8,34396,14.599,4.8,196
+tm191431,Double Team,MOVIE,1997,R,93,thriller,"['HK', 'US']",4.8,34396,14.599,4.8,196
+tm10811,Heavy,MOVIE,1995,R,105,drama,['US'],6.8,5047,3.308,6.8,80
+tm10811,Heavy,MOVIE,1995,R,105,romance,['US'],6.8,5047,3.308,6.8,80
+tm49839,The Players Club,MOVIE,1998,R,104,comedy,['US'],5.9,6676,9.25,5.9,279
+tm49839,The Players Club,MOVIE,1998,R,104,drama,['US'],5.9,6676,9.25,5.9,279
+ts20918,The Parkers,SHOW,1999,TV-PG,19,comedy,['US'],6.8,2377,5.745,6.8,262
+ts21693,"Sister, Sister",SHOW,1994,TV-PG,22,comedy,['US'],6.2,12657,21.489,6.2,134
+ts21693,"Sister, Sister",SHOW,1994,TV-PG,22,drama,['US'],6.2,12657,21.489,6.2,134
+ts21693,"Sister, Sister",SHOW,1994,TV-PG,22,family,['US'],6.2,12657,21.489,6.2,134
+ts20939,Moesha,SHOW,1996,TV-PG,21,drama,['US'],5.8,3747,10.901,5.8,211
+ts20939,Moesha,SHOW,1996,TV-PG,21,comedy,['US'],5.8,3747,10.901,5.8,211
+ts20939,Moesha,SHOW,1996,TV-PG,21,family,['US'],5.8,3747,10.901,5.8,211
+ts21684,Heartbreak High,SHOW,1994,TV-MA,45,drama,['AU'],7.8,3139,7.222,7.8,141
+ts21684,Heartbreak High,SHOW,1994,TV-MA,45,romance,['AU'],7.8,3139,7.222,7.8,141
+ts21684,Heartbreak High,SHOW,1994,TV-MA,45,comedy,['AU'],7.8,3139,7.222,7.8,141
+ts22080,Oggy and the Cockroaches,SHOW,1999,TV-Y7,9,animation,['FR'],7.4,4281,40.189,7.4,221
+ts22080,Oggy and the Cockroaches,SHOW,1999,TV-Y7,9,comedy,['FR'],7.4,4281,40.189,7.4,221
+ts22080,Oggy and the Cockroaches,SHOW,1999,TV-Y7,9,family,['FR'],7.4,4281,40.189,7.4,221
+ts22080,Oggy and the Cockroaches,SHOW,1999,TV-Y7,9,action,['FR'],7.4,4281,40.189,7.4,221
+ts22080,Oggy and the Cockroaches,SHOW,1999,TV-Y7,9,european,['FR'],7.4,4281,40.189,7.4,221
+tm67635,Kuch Kuch Hota Hai,MOVIE,1998,G,185,romance,['IN'],7.6,52036,12.35,7.6,114
+tm67635,Kuch Kuch Hota Hai,MOVIE,1998,G,185,comedy,['IN'],7.6,52036,12.35,7.6,114
+tm67635,Kuch Kuch Hota Hai,MOVIE,1998,G,185,drama,['IN'],7.6,52036,12.35,7.6,114
+tm320211,Children of God,MOVIE,1994,Unrated,63,documentation,['GB'],6.3,612,0.685,6.3,45
+tm7073,Knight Rider 2000,MOVIE,1991,G,91,action,['US'],4.5,3207,7.945,4.5,6
+tm7073,Knight Rider 2000,MOVIE,1991,G,91,scifi,['US'],4.5,3207,7.945,4.5,6
+ts28516,Okupas,SHOW,2000,TV-MA,40,drama,['AR'],9,2399,8.565,9,198
+ts28516,Okupas,SHOW,2000,TV-MA,40,crime,['AR'],9,2399,8.565,9,198
+tm117873,Hum Aapke Hain Koun..!,MOVIE,1994,Unrated,206,drama,['IN'],7.5,21123,6.314,7.5,102
+tm117873,Hum Aapke Hain Koun..!,MOVIE,1994,Unrated,206,romance,['IN'],7.5,21123,6.314,7.5,102
+tm117873,Hum Aapke Hain Koun..!,MOVIE,1994,Unrated,206,comedy,['IN'],7.5,21123,6.314,7.5,102
+tm55100,Dil Se..,MOVIE,1998,PG-13,163,drama,['IN'],7.5,28586,7.811,7.5,154
+tm55100,Dil Se..,MOVIE,1998,PG-13,163,romance,['IN'],7.5,28586,7.811,7.5,154
+tm64817,Jerry Seinfeld: I'm Telling You for the Last Time,MOVIE,1998,G,75,comedy,['US'],7.9,5879,5.822,7.9,126
+tm64817,Jerry Seinfeld: I'm Telling You for the Last Time,MOVIE,1998,G,75,documentation,['US'],7.9,5879,5.822,7.9,126
+ts22039,H,SHOW,1998,TV-MA,25,comedy,['FR'],7.4,1727,7.905,7.4,37
+tm188606,Sankofa,MOVIE,1993,Unrated,124,drama,"['DE', 'GH', 'GB', 'US', 'BF']",7,692,1.858,7,144
+tm188606,Sankofa,MOVIE,1993,Unrated,124,european,"['DE', 'GH', 'GB', 'US', 'BF']",7,692,1.858,7,144
+tm41525,Herod's Law,MOVIE,1999,R,123,comedy,['MX'],7.8,6035,10.506,7.8,214
+tm41525,Herod's Law,MOVIE,1999,R,123,crime,['MX'],7.8,6035,10.506,7.8,214
+tm41525,Herod's Law,MOVIE,1999,R,123,thriller,['MX'],7.8,6035,10.506,7.8,214
+tm189171,Wild Tango,MOVIE,1993,R,124,drama,"['ES', 'AR']",6.7,1584,5.092,6.7,275
+tm189171,Wild Tango,MOVIE,1993,R,124,music,"['ES', 'AR']",6.7,1584,5.092,6.7,275
+tm189171,Wild Tango,MOVIE,1993,R,124,romance,"['ES', 'AR']",6.7,1584,5.092,6.7,275
+tm63514,The Last Days,MOVIE,1998,PG-13,87,drama,['US'],7.9,4378,3.766,7.9,279
+tm63514,The Last Days,MOVIE,1998,PG-13,87,history,['US'],7.9,4378,3.766,7.9,279
+tm63514,The Last Days,MOVIE,1998,PG-13,87,war,['US'],7.9,4378,3.766,7.9,279
+tm63514,The Last Days,MOVIE,1998,PG-13,87,documentation,['US'],7.9,4378,3.766,7.9,279
+tm21911,Sam Kinison: Live in Vegas,MOVIE,1991,Unrated,72,comedy,['US'],6.6,276,0.656,6.6,94
+tm21911,Sam Kinison: Live in Vegas,MOVIE,1991,Unrated,72,music,['US'],6.6,276,0.656,6.6,94
+tm21911,Sam Kinison: Live in Vegas,MOVIE,1991,Unrated,72,documentation,['US'],6.6,276,0.656,6.6,94
+tm188970,Bill Hicks: Revelations,MOVIE,1993,Unrated,74,comedy,['GB'],8.5,3098,3.784,8.5,271
+tm188970,Bill Hicks: Revelations,MOVIE,1993,Unrated,74,documentation,['GB'],8.5,3098,3.784,8.5,271
+tm12876,Bombay,MOVIE,1995,Unrated,141,drama,['IN'],8.1,12629,4.99,8.1,65
+tm12876,Bombay,MOVIE,1995,Unrated,141,romance,['IN'],8.1,12629,4.99,8.1,65
+ts224786,Escalona,SHOW,1991,TV-MA,44,drama,['CO'],6.510860656,23439.38247,7.352,6.510860656,88
+tm62176,Mann,MOVIE,1999,Unrated,174,drama,['IN'],6.1,5451,2.595,6.1,290
+tm62176,Mann,MOVIE,1999,Unrated,174,romance,['IN'],6.1,5451,2.595,6.1,290
+tm52871,Soldier,MOVIE,1998,Unrated,156,thriller,['IN'],6.2,3063,3.623,6.2,72
+tm52871,Soldier,MOVIE,1998,Unrated,156,action,['IN'],6.2,3063,3.623,6.2,72
+tm52871,Soldier,MOVIE,1998,Unrated,156,drama,['IN'],6.2,3063,3.623,6.2,72
+tm52871,Soldier,MOVIE,1998,Unrated,156,romance,['IN'],6.2,3063,3.623,6.2,72
+tm8687,Sam Kinison: Family Entertainment Hour,MOVIE,1991,Unrated,49,comedy,['US'],6.510860656,23439.38247,1.84,6.510860656,97
+tm104933,Sinbad: Son of a Preacher Man,MOVIE,1996,Unrated,56,comedy,['US'],6.8,116,1.536,6.8,83
+tm104933,Sinbad: Son of a Preacher Man,MOVIE,1996,Unrated,56,documentation,['US'],6.8,116,1.536,6.8,83
+tm184326,Damini,MOVIE,1993,Unrated,175,drama,['IN'],7.8,3523,3.328,7.8,80
+tm184326,Damini,MOVIE,1993,Unrated,175,crime,['IN'],7.8,3523,3.328,7.8,80
+tm62385,Hum Saath Saath Hain,MOVIE,1999,G,177,romance,['IN'],6.2,8552,7.865,6.2,209
+tm62385,Hum Saath Saath Hain,MOVIE,1999,G,177,family,['IN'],6.2,8552,7.865,6.2,209
+tm62385,Hum Saath Saath Hain,MOVIE,1999,G,177,fantasy,['IN'],6.2,8552,7.865,6.2,209
+tm62385,Hum Saath Saath Hain,MOVIE,1999,G,177,drama,['IN'],6.2,8552,7.865,6.2,209
+tm191614,Destiny,MOVIE,1997,Unrated,136,drama,"['FR', 'EG']",7.1,2857,3.287,7.1,263
+tm191614,Destiny,MOVIE,1997,Unrated,136,history,"['FR', 'EG']",7.1,2857,3.287,7.1,263
+tm191614,Destiny,MOVIE,1997,Unrated,136,comedy,"['FR', 'EG']",7.1,2857,3.287,7.1,263
+tm191614,Destiny,MOVIE,1997,Unrated,136,romance,"['FR', 'EG']",7.1,2857,3.287,7.1,263
+tm110766,Chronicle of a Disappearance,MOVIE,1996,Unrated,88,drama,"['PS', 'US', 'FR', 'DE']",6.9,733,2.099,6.9,254
+tm9898,Muthu,MOVIE,1995,G,165,comedy,['IN'],7.6,3056,3.576,7.6,186
+tm9898,Muthu,MOVIE,1995,G,165,drama,['IN'],7.6,3056,3.576,7.6,186
+tm9898,Muthu,MOVIE,1995,G,165,action,['IN'],7.6,3056,3.576,7.6,186
+tm9898,Muthu,MOVIE,1995,G,165,romance,['IN'],7.6,3056,3.576,7.6,186
+tm47530,Jeans,MOVIE,1998,Unrated,175,comedy,['IN'],6.4,3604,3.393,6.4,242
+tm47530,Jeans,MOVIE,1998,Unrated,175,drama,['IN'],6.4,3604,3.393,6.4,242
+tm47530,Jeans,MOVIE,1998,Unrated,175,romance,['IN'],6.4,3604,3.393,6.4,242
+tm57169,Monty Python: Live at Aspen,MOVIE,1998,Unrated,58,comedy,"['GB', 'US']",7.8,1096,2.681,7.8,106
+tm57169,Monty Python: Live at Aspen,MOVIE,1998,Unrated,58,documentation,"['GB', 'US']",7.8,1096,2.681,7.8,106
+tm192301,Minsara Kanavu,MOVIE,1997,G,145,comedy,['IN'],6.7,1226,2.316,6.7,165
+tm192301,Minsara Kanavu,MOVIE,1997,G,145,romance,['IN'],6.7,1226,2.316,6.7,165
+tm192301,Minsara Kanavu,MOVIE,1997,G,145,drama,['IN'],6.7,1226,2.316,6.7,165
+tm58893,Duplicate,MOVIE,1998,PG,165,comedy,['IN'],5.5,7618,4.112,5.5,234
+tm58893,Duplicate,MOVIE,1998,PG,165,action,['IN'],5.5,7618,4.112,5.5,234
+tm58893,Duplicate,MOVIE,1998,PG,165,crime,['IN'],5.5,7618,4.112,5.5,234
+tm58893,Duplicate,MOVIE,1998,PG,165,thriller,['IN'],5.5,7618,4.112,5.5,234
+tm110160,Avvai Shanmugi,MOVIE,1996,PG-13,160,drama,['IN'],7.9,2586,2.828,7.9,64
+tm110160,Avvai Shanmugi,MOVIE,1996,PG-13,160,comedy,['IN'],7.9,2586,2.828,7.9,64
+tm118438,Anjaam,MOVIE,1994,Unrated,137,romance,['IN'],6.6,6532,3.806,6.6,105
+tm118438,Anjaam,MOVIE,1994,Unrated,137,crime,['IN'],6.6,6532,3.806,6.6,105
+tm118438,Anjaam,MOVIE,1994,Unrated,137,thriller,['IN'],6.6,6532,3.806,6.6,105
+tm118438,Anjaam,MOVIE,1994,Unrated,137,drama,['IN'],6.6,6532,3.806,6.6,105
+tm424630,A Triumph of the Heart: The Ricky Bell Story,MOVIE,1991,Unrated,100,drama,['US'],7.2,250,1.533,7.2,212
+tm424630,A Triumph of the Heart: The Ricky Bell Story,MOVIE,1991,Unrated,100,sport,['US'],7.2,250,1.533,7.2,212
+tm27601,Phir Bhi Dil Hai Hindustani,MOVIE,2000,PG-13,160,comedy,['IN'],6.1,7610,7.778,6.1,5
+tm27601,Phir Bhi Dil Hai Hindustani,MOVIE,2000,PG-13,160,romance,['IN'],6.1,7610,7.778,6.1,5
+tm27601,Phir Bhi Dil Hai Hindustani,MOVIE,2000,PG-13,160,drama,['IN'],6.1,7610,7.778,6.1,5
+tm203186,Children of Shatila,MOVIE,1999,Unrated,50,documentation,['LB'],8.1,78,1.635,8.1,253
+tm203186,Children of Shatila,MOVIE,1999,Unrated,50,history,['LB'],8.1,78,1.635,8.1,253
+tm128073,Bill Hicks: Relentless,MOVIE,1992,Unrated,61,comedy,['GB'],6.510860656,23439.38247,3.822,6.510860656,123
+tm7951,Tim Allen: Rewires America,MOVIE,1991,PG,30,comedy,['US'],6,198,2.297,6,256
+tm7951,Tim Allen: Rewires America,MOVIE,1991,PG,30,documentation,['US'],6,198,2.297,6,256
+tm7135,Bill Hicks: One Night Stand,MOVIE,1991,NC-17,30,comedy,['US'],6.510860656,23439.38247,1.08,6.510860656,112
+tm52083,West Beirut,MOVIE,1998,PG-13,105,romance,"['FR', 'NO', 'LB', 'BE']",7.6,4221,3.308,7.6,40
+tm52083,West Beirut,MOVIE,1998,PG-13,105,drama,"['FR', 'NO', 'LB', 'BE']",7.6,4221,3.308,7.6,40
+tm52083,West Beirut,MOVIE,1998,PG-13,105,comedy,"['FR', 'NO', 'LB', 'BE']",7.6,4221,3.308,7.6,40
+tm52083,West Beirut,MOVIE,1998,PG-13,105,war,"['FR', 'NO', 'LB', 'BE']",7.6,4221,3.308,7.6,40
+tm52083,West Beirut,MOVIE,1998,PG-13,105,european,"['FR', 'NO', 'LB', 'BE']",7.6,4221,3.308,7.6,40
+tm340430,Govindha Govindha,MOVIE,1993,Unrated,145,drama,['IN'],6.6,356,1.248,6.6,191
+tm340430,Govindha Govindha,MOVIE,1993,Unrated,145,action,['IN'],6.6,356,1.248,6.6,191
+tm340430,Govindha Govindha,MOVIE,1993,Unrated,145,crime,['IN'],6.6,356,1.248,6.6,191
+tm7032,Out of Life,MOVIE,1991,Unrated,97,drama,"['BE', 'FR', 'IT', 'LB']",6.9,376,2.481,6.9,86
+tm7032,Out of Life,MOVIE,1991,Unrated,97,war,"['BE', 'FR', 'IT', 'LB']",6.9,376,2.481,6.9,86
+tm7032,Out of Life,MOVIE,1991,Unrated,97,crime,"['BE', 'FR', 'IT', 'LB']",6.9,376,2.481,6.9,86
+tm7032,Out of Life,MOVIE,1991,Unrated,97,european,"['BE', 'FR', 'IT', 'LB']",6.9,376,2.481,6.9,86
+tm256669,Gumrah,MOVIE,1993,Unrated,149,drama,['IN'],6.1,795,1.763,6.1,258
+tm256669,Gumrah,MOVIE,1993,Unrated,149,action,['IN'],6.1,795,1.763,6.1,258
+tm256669,Gumrah,MOVIE,1993,Unrated,149,crime,['IN'],6.1,795,1.763,6.1,258
+tm256669,Gumrah,MOVIE,1993,Unrated,149,thriller,['IN'],6.1,795,1.763,6.1,258
+tm64729,Sinbad: Nothin' but the Funk,MOVIE,1998,Unrated,56,comedy,['US'],6.3,65,1.83,6.3,157
+tm64729,Sinbad: Nothin' but the Funk,MOVIE,1998,Unrated,56,documentation,['US'],6.3,65,1.83,6.3,157
+tm184224,Sinbad: Afros and Bellbottoms,MOVIE,1993,PG-13,60,comedy,['US'],7.8,172,3.793,7.8,280
+tm184224,Sinbad: Afros and Bellbottoms,MOVIE,1993,PG-13,60,documentation,['US'],7.8,172,3.793,7.8,280
+tm25389,Fiza,MOVIE,2000,Unrated,170,romance,['IN'],6,4213,2.835,6,165
+tm25389,Fiza,MOVIE,2000,Unrated,170,action,['IN'],6,4213,2.835,6,165
+tm25389,Fiza,MOVIE,2000,Unrated,170,crime,['IN'],6,4213,2.835,6,165
+tm25389,Fiza,MOVIE,2000,Unrated,170,drama,['IN'],6,4213,2.835,6,165
+tm25389,Fiza,MOVIE,2000,Unrated,170,thriller,['IN'],6,4213,2.835,6,165
+tm34391,Before the Flying Circus,MOVIE,2000,Unrated,55,comedy,['GB'],7.3,168,1.444,7.3,211
+tm34391,Before the Flying Circus,MOVIE,2000,Unrated,55,documentation,['GB'],7.3,168,1.444,7.3,211
+tm44776,The Other,MOVIE,1999,Unrated,106,romance,"['FR', 'EG']",5.9,997,1.12,5.9,93
+tm44776,The Other,MOVIE,1999,Unrated,106,european,"['FR', 'EG']",5.9,997,1.12,5.9,93
+tm44776,The Other,MOVIE,1999,Unrated,106,drama,"['FR', 'EG']",5.9,997,1.12,5.9,93
+tm334788,Yodha,MOVIE,1991,Unrated,142,action,['IN'],4.5,198,1.554,4.5,92
+tm334788,Yodha,MOVIE,1991,Unrated,142,drama,['IN'],4.5,198,1.554,4.5,92
+tm117840,The Emigrant,MOVIE,1994,Unrated,129,drama,"['FR', 'EG']",6.5,1015,1.4,6.5,244
+tm42397,Hello Brother,MOVIE,1999,Unrated,131,comedy,['IN'],4.6,4262,4.338,4.6,75
+tm42397,Hello Brother,MOVIE,1999,Unrated,131,romance,['IN'],4.6,4262,4.338,4.6,75
+tm42397,Hello Brother,MOVIE,1999,Unrated,131,fantasy,['IN'],4.6,4262,4.338,4.6,75
+tm42397,Hello Brother,MOVIE,1999,Unrated,131,action,['IN'],4.6,4262,4.338,4.6,75
+tm314602,Dushmani,MOVIE,1995,Unrated,156,romance,['IN'],5,249,2.045,5,283
+tm314602,Dushmani,MOVIE,1995,Unrated,156,action,['IN'],5,249,2.045,5,283
+tm314602,Dushmani,MOVIE,1995,Unrated,156,drama,['IN'],5,249,2.045,5,283
+tm7810,Nightmare in Columbia County,MOVIE,1991,Unrated,100,drama,['US'],5.5,345,2.713,5.5,34
+tm7810,Nightmare in Columbia County,MOVIE,1991,Unrated,100,thriller,['US'],5.5,345,2.713,5.5,34
+tm7810,Nightmare in Columbia County,MOVIE,1991,Unrated,100,crime,['US'],5.5,345,2.713,5.5,34
+tm210754,Have You Ever Seen Fireflies? - Theatre Play,MOVIE,1999,Unrated,118,drama,['TR'],6.510860656,23439.38247,1.396,6.510860656,58
+tm449775,Shikari,MOVIE,1991,Unrated,162,drama,"['IN', 'SU']",5.8,68,1.323,5.8,225
+tm449775,Shikari,MOVIE,1991,Unrated,162,action,"['IN', 'SU']",5.8,68,1.323,5.8,225
+ts4,Breaking Bad,SHOW,2008,TV-MA,48,drama,['US'],9.5,1775990,353.848,9.5,128
+ts4,Breaking Bad,SHOW,2008,TV-MA,48,crime,['US'],9.5,1775990,353.848,9.5,128
+ts4,Breaking Bad,SHOW,2008,TV-MA,48,thriller,['US'],9.5,1775990,353.848,9.5,128
+ts20371,Top Gear,SHOW,2002,TV-PG,58,comedy,['GB'],8.7,117240,45.549,8.7,20
+ts20371,Top Gear,SHOW,2002,TV-PG,58,reality,['GB'],8.7,117240,45.549,8.7,20
+ts20371,Top Gear,SHOW,2002,TV-PG,58,european,['GB'],8.7,117240,45.549,8.7,20
+ts20371,Top Gear,SHOW,2002,TV-PG,58,music,['GB'],8.7,117240,45.549,8.7,20
+ts9,The Walking Dead,SHOW,2010,TV-MA,46,action,['US'],8.2,956604,597.277,8.2,182
+ts9,The Walking Dead,SHOW,2010,TV-MA,46,drama,['US'],8.2,956604,597.277,8.2,182
+ts9,The Walking Dead,SHOW,2010,TV-MA,46,scifi,['US'],8.2,956604,597.277,8.2,182
+ts9,The Walking Dead,SHOW,2010,TV-MA,46,horror,['US'],8.2,956604,597.277,8.2,182
+ts9,The Walking Dead,SHOW,2010,TV-MA,46,thriller,['US'],8.2,956604,597.277,8.2,182
+ts21465,Supernatural,SHOW,2005,TV-14,45,scifi,['US'],8.4,434081,388.093,8.4,83
+ts21465,Supernatural,SHOW,2005,TV-14,45,horror,['US'],8.4,434081,388.093,8.4,83
+ts21465,Supernatural,SHOW,2005,TV-14,45,thriller,['US'],8.4,434081,388.093,8.4,83
+ts21465,Supernatural,SHOW,2005,TV-14,45,drama,['US'],8.4,434081,388.093,8.4,83
+ts21465,Supernatural,SHOW,2005,TV-14,45,fantasy,['US'],8.4,434081,388.093,8.4,83
+tm74402,The Mist,MOVIE,2007,R,126,horror,['US'],7.1,305346,37.369,7.1,9
+tm74402,The Mist,MOVIE,2007,R,126,scifi,['US'],7.1,305346,37.369,7.1,9
+tm74402,The Mist,MOVIE,2007,R,126,thriller,['US'],7.1,305346,37.369,7.1,9
+tm91952,Mean Girls,MOVIE,2004,PG-13,97,comedy,"['CA', 'US']",7.1,375975,57.235,7.1,12
+ts288536,The Great British Baking Show,SHOW,2010,TV-PG,57,reality,['GB'],8.6,9856,5.581,8.6,284
+ts288536,The Great British Baking Show,SHOW,2010,TV-PG,57,european,['GB'],8.6,9856,5.581,8.6,284
+ts12724,30 Rock,SHOW,2006,TV-14,25,comedy,['US'],8.3,122698,48.88,8.3,187
+ts12724,30 Rock,SHOW,2006,TV-14,25,sport,['US'],8.3,122698,48.88,8.3,187
+ts6644,Borgen,SHOW,2010,TV-MA,58,drama,['DK'],8.5,25485,51.118,8.5,116
+ts6644,Borgen,SHOW,2010,TV-MA,58,european,['DK'],8.5,25485,51.118,8.5,116
+ts8308,Community,SHOW,2009,TV-PG,23,comedy,['US'],8.5,257221,42.357,8.5,145
+tm111828,Catch Me If You Can,MOVIE,2002,PG-13,141,drama,['US'],8.1,952602,72.321,8.1,261
+tm111828,Catch Me If You Can,MOVIE,2002,PG-13,141,crime,['US'],8.1,952602,72.321,8.1,261
+ts21469,Grey's Anatomy,SHOW,2005,TV-14,49,drama,['US'],7.6,299165,803.786,7.6,190
+ts21469,Grey's Anatomy,SHOW,2005,TV-14,49,romance,['US'],7.6,299165,803.786,7.6,190
+ts17156,Arrested Development,SHOW,2003,TV-MA,28,comedy,['US'],8.7,300445,30.131,8.7,99
+ts22011,Heartland,SHOW,2007,TV-PG,44,drama,['CA'],8.4,16337,74.638,8.4,280
+ts22011,Heartland,SHOW,2007,TV-PG,44,family,['CA'],8.4,16337,74.638,8.4,280
+ts26091,The Staircase,SHOW,2004,TV-MA,49,crime,['FR'],7.8,21531,10.922,7.8,106
+ts26091,The Staircase,SHOW,2004,TV-MA,49,documentation,['FR'],7.8,21531,10.922,7.8,106
+ts26091,The Staircase,SHOW,2004,TV-MA,49,drama,['FR'],7.8,21531,10.922,7.8,106
+tm150112,Old School,MOVIE,2003,R,88,comedy,['US'],7,229171,17.131,7,288
+tm150112,Old School,MOVIE,2003,R,88,european,['US'],7,229171,17.131,7,288
+ts22337,NCIS,SHOW,2003,TV-14,43,crime,['US'],7.8,143846,251.622,7.8,82
+ts22337,NCIS,SHOW,2003,TV-14,43,action,['US'],7.8,143846,251.622,7.8,82
+ts22337,NCIS,SHOW,2003,TV-14,43,thriller,['US'],7.8,143846,251.622,7.8,82
+ts22337,NCIS,SHOW,2003,TV-14,43,drama,['US'],7.8,143846,251.622,7.8,82
+ts22337,NCIS,SHOW,2003,TV-14,43,comedy,['US'],7.8,143846,251.622,7.8,82
+ts3371,Avatar: The Last Airbender,SHOW,2005,TV-Y7,24,scifi,['US'],9.3,303666,56.915,9.3,218
+ts3371,Avatar: The Last Airbender,SHOW,2005,TV-Y7,24,animation,['US'],9.3,303666,56.915,9.3,218
+ts3371,Avatar: The Last Airbender,SHOW,2005,TV-Y7,24,action,['US'],9.3,303666,56.915,9.3,218
+ts3371,Avatar: The Last Airbender,SHOW,2005,TV-Y7,24,family,['US'],9.3,303666,56.915,9.3,218
+ts3371,Avatar: The Last Airbender,SHOW,2005,TV-Y7,24,fantasy,['US'],9.3,303666,56.915,9.3,218
+tm80906,Anchorman: The Legend of Ron Burgundy,MOVIE,2004,PG-13,95,comedy,['US'],7.1,353118,20.606,7.1,202
+ts20604,Friday Night Lights,SHOW,2006,TV-14,43,drama,['US'],8.7,65199,19.681,8.7,188
+ts20604,Friday Night Lights,SHOW,2006,TV-14,43,sport,['US'],8.7,65199,19.681,8.7,188
+ts20573,The IT Crowd,SHOW,2006,TV-14,25,comedy,['GB'],8.5,149586,31.031,8.5,9
+ts20573,The IT Crowd,SHOW,2006,TV-14,25,european,['GB'],8.5,149586,31.031,8.5,9
+tm92641,Inception,MOVIE,2010,PG-13,148,action,"['US', 'GB']",8.8,2294231,108.284,8.8,265
+tm92641,Inception,MOVIE,2010,PG-13,148,scifi,"['US', 'GB']",8.8,2294231,108.284,8.8,265
+tm92641,Inception,MOVIE,2010,PG-13,148,music,"['US', 'GB']",8.8,2294231,108.284,8.8,265
+tm92641,Inception,MOVIE,2010,PG-13,148,thriller,"['US', 'GB']",8.8,2294231,108.284,8.8,265
+ts22099,The Spectacular Spider-Man,SHOW,2008,TV-Y7,22,action,['US'],8.3,14996,41.509,8.3,230
+ts22099,The Spectacular Spider-Man,SHOW,2008,TV-Y7,22,animation,['US'],8.3,14996,41.509,8.3,230
+ts22099,The Spectacular Spider-Man,SHOW,2008,TV-Y7,22,family,['US'],8.3,14996,41.509,8.3,230
+ts22099,The Spectacular Spider-Man,SHOW,2008,TV-Y7,22,scifi,['US'],8.3,14996,41.509,8.3,230
+ts22099,The Spectacular Spider-Man,SHOW,2008,TV-Y7,22,comedy,['US'],8.3,14996,41.509,8.3,230
+tm27911,The Departed,MOVIE,2006,R,151,drama,['US'],8.5,1296244,33.795,8.5,100
+tm27911,The Departed,MOVIE,2006,R,151,thriller,['US'],8.5,1296244,33.795,8.5,100
+tm27911,The Departed,MOVIE,2006,R,151,crime,['US'],8.5,1296244,33.795,8.5,100
+tm27911,The Departed,MOVIE,2006,R,151,action,['US'],8.5,1296244,33.795,8.5,100
+ts21464,Zoey 101,SHOW,2005,TV-G,25,drama,['US'],6.1,15808,53.044,6.1,246
+ts21464,Zoey 101,SHOW,2005,TV-G,25,comedy,['US'],6.1,15808,53.044,6.1,246
+ts21464,Zoey 101,SHOW,2005,TV-G,25,family,['US'],6.1,15808,53.044,6.1,246
+ts21464,Zoey 101,SHOW,2005,TV-G,25,romance,['US'],6.1,15808,53.044,6.1,246
+tm88465,Insidious,MOVIE,2010,PG-13,103,horror,"['CA', 'US']",6.8,303820,99.129,6.8,175
+tm88465,Insidious,MOVIE,2010,PG-13,103,thriller,"['CA', 'US']",6.8,303820,99.129,6.8,175
+tm172683,War of the Worlds,MOVIE,2005,PG-13,117,action,['US'],6.5,444229,36.989,6.5,292
+tm172683,War of the Worlds,MOVIE,2005,PG-13,117,thriller,['US'],6.5,444229,36.989,6.5,292
+tm172683,War of the Worlds,MOVIE,2005,PG-13,117,scifi,['US'],6.5,444229,36.989,6.5,292
+ts11313,DEATH NOTE,SHOW,2006,TV-14,24,animation,['JP'],9,309445,120.545,9,208
+ts11313,DEATH NOTE,SHOW,2006,TV-14,24,thriller,['JP'],9,309445,120.545,9,208
+ts11313,DEATH NOTE,SHOW,2006,TV-14,24,scifi,['JP'],9,309445,120.545,9,208
+ts11313,DEATH NOTE,SHOW,2006,TV-14,24,drama,['JP'],9,309445,120.545,9,208
+ts11313,DEATH NOTE,SHOW,2006,TV-14,24,fantasy,['JP'],9,309445,120.545,9,208
+ts11313,DEATH NOTE,SHOW,2006,TV-14,24,crime,['JP'],9,309445,120.545,9,208
+ts21247,The Vampire Diaries,SHOW,2009,TV-14,42,drama,['US'],7.7,314422,479.354,7.7,7
+ts21247,The Vampire Diaries,SHOW,2009,TV-14,42,scifi,['US'],7.7,314422,479.354,7.7,7
+ts21247,The Vampire Diaries,SHOW,2009,TV-14,42,horror,['US'],7.7,314422,479.354,7.7,7
+ts21247,The Vampire Diaries,SHOW,2009,TV-14,42,romance,['US'],7.7,314422,479.354,7.7,7
+ts21247,The Vampire Diaries,SHOW,2009,TV-14,42,thriller,['US'],7.7,314422,479.354,7.7,7
+ts21247,The Vampire Diaries,SHOW,2009,TV-14,42,fantasy,['US'],7.7,314422,479.354,7.7,7
+ts20305,Naruto,SHOW,2002,TV-PG,23,animation,['JP'],8.4,96729,218.843,8.4,99
+ts20305,Naruto,SHOW,2002,TV-PG,23,action,['JP'],8.4,96729,218.843,8.4,99
+ts20305,Naruto,SHOW,2002,TV-PG,23,scifi,['JP'],8.4,96729,218.843,8.4,99
+ts20305,Naruto,SHOW,2002,TV-PG,23,comedy,['JP'],8.4,96729,218.843,8.4,99
+ts20305,Naruto,SHOW,2002,TV-PG,23,fantasy,['JP'],8.4,96729,218.843,8.4,99
+ts20305,Naruto,SHOW,2002,TV-PG,23,thriller,['JP'],8.4,96729,218.843,8.4,99
+tm42877,Wanted,MOVIE,2008,R,110,action,"['DE', 'US']",6.7,384995,33.101,6.7,96
+tm42877,Wanted,MOVIE,2008,R,110,thriller,"['DE', 'US']",6.7,384995,33.101,6.7,96
+tm42877,Wanted,MOVIE,2008,R,110,crime,"['DE', 'US']",6.7,384995,33.101,6.7,96
+tm42877,Wanted,MOVIE,2008,R,110,fantasy,"['DE', 'US']",6.7,384995,33.101,6.7,96
+tm39030,Casino Royale,MOVIE,2006,Unrated,144,action,"['DE', 'GB', 'US', 'BS', 'CZ']",8,649676,40.164,8,50
+tm39030,Casino Royale,MOVIE,2006,Unrated,144,thriller,"['DE', 'GB', 'US', 'BS', 'CZ']",8,649676,40.164,8,50
+tm39030,Casino Royale,MOVIE,2006,Unrated,144,european,"['DE', 'GB', 'US', 'BS', 'CZ']",8,649676,40.164,8,50
+ts21511,My Little Pony: Friendship Is Magic,SHOW,2010,TV-Y7,22,comedy,"['CA', 'US']",7.6,20910,52.369,7.6,163
+ts21511,My Little Pony: Friendship Is Magic,SHOW,2010,TV-Y7,22,scifi,"['CA', 'US']",7.6,20910,52.369,7.6,163
+ts21511,My Little Pony: Friendship Is Magic,SHOW,2010,TV-Y7,22,animation,"['CA', 'US']",7.6,20910,52.369,7.6,163
+ts21511,My Little Pony: Friendship Is Magic,SHOW,2010,TV-Y7,22,fantasy,"['CA', 'US']",7.6,20910,52.369,7.6,163
+ts21511,My Little Pony: Friendship Is Magic,SHOW,2010,TV-Y7,22,family,"['CA', 'US']",7.6,20910,52.369,7.6,163
+ts21511,My Little Pony: Friendship Is Magic,SHOW,2010,TV-Y7,22,drama,"['CA', 'US']",7.6,20910,52.369,7.6,163
+ts21511,My Little Pony: Friendship Is Magic,SHOW,2010,TV-Y7,22,music,"['CA', 'US']",7.6,20910,52.369,7.6,163
+tm997728,Blade Runner: The Final Cut,MOVIE,2007,R,117,action,['US'],6.510860656,23439.38247,0.055091,6.510860656,119
+tm997728,Blade Runner: The Final Cut,MOVIE,2007,R,117,thriller,['US'],6.510860656,23439.38247,0.055091,6.510860656,119
+tm997728,Blade Runner: The Final Cut,MOVIE,2007,R,117,scifi,['US'],6.510860656,23439.38247,0.055091,6.510860656,119
+ts17942,Chappelle's Show,SHOW,2003,TV-14,21,comedy,['US'],8.8,63107,14.116,8.8,188
+ts17942,Chappelle's Show,SHOW,2003,TV-14,21,music,['US'],8.8,63107,14.116,8.8,188
+tm89677,The Terminal,MOVIE,2004,PG-13,128,drama,['US'],7.4,441752,21.384,7.4,270
+tm89677,The Terminal,MOVIE,2004,PG-13,128,comedy,['US'],7.4,441752,21.384,7.4,270
+tm89677,The Terminal,MOVIE,2004,PG-13,128,romance,['US'],7.4,441752,21.384,7.4,270
+tm78592,Michael Clayton,MOVIE,2007,R,114,thriller,['US'],7.2,165109,16.97,7.2,187
+tm78592,Michael Clayton,MOVIE,2007,R,114,drama,['US'],7.2,165109,16.97,7.2,187
+tm78592,Michael Clayton,MOVIE,2007,R,114,crime,['US'],7.2,165109,16.97,7.2,187
+tm105329,Road to Perdition,MOVIE,2002,R,117,thriller,['US'],7.7,265216,18.739,7.7,253
+tm105329,Road to Perdition,MOVIE,2002,R,117,documentation,['US'],7.7,265216,18.739,7.7,253
+tm105329,Road to Perdition,MOVIE,2002,R,117,drama,['US'],7.7,265216,18.739,7.7,253
+tm105329,Road to Perdition,MOVIE,2002,R,117,crime,['US'],7.7,265216,18.739,7.7,253
+ts30311,Victorious,SHOW,2010,TV-G,25,comedy,['US'],6.9,24838,71.494,6.9,36
+ts30311,Victorious,SHOW,2010,TV-G,25,family,['US'],6.9,24838,71.494,6.9,36
+ts30311,Victorious,SHOW,2010,TV-G,25,drama,['US'],6.9,24838,71.494,6.9,36
+ts30311,Victorious,SHOW,2010,TV-G,25,music,['US'],6.9,24838,71.494,6.9,36
+ts30311,Victorious,SHOW,2010,TV-G,25,romance,['US'],6.9,24838,71.494,6.9,36
+ts30311,Victorious,SHOW,2010,TV-G,25,sport,['US'],6.9,24838,71.494,6.9,36
+tm139658,Big Fish,MOVIE,2003,PG-13,125,action,['US'],8,437650,21.158,8,253
+tm139658,Big Fish,MOVIE,2003,PG-13,125,fantasy,['US'],8,437650,21.158,8,253
+tm139658,Big Fish,MOVIE,2003,PG-13,125,drama,['US'],8,437650,21.158,8,253
+tm139658,Big Fish,MOVIE,2003,PG-13,125,romance,['US'],8,437650,21.158,8,253
+tm26327,The Hurt Locker,MOVIE,2008,R,131,thriller,['US'],7.5,446904,28.341,7.5,91
+tm26327,The Hurt Locker,MOVIE,2008,R,131,drama,['US'],7.5,446904,28.341,7.5,91
+tm26327,The Hurt Locker,MOVIE,2008,R,131,war,['US'],7.5,446904,28.341,7.5,91
+tm95477,Troy,MOVIE,2004,R,163,action,"['MT', 'GB', 'US']",7.3,527447,48.407,7.3,220
+tm95477,Troy,MOVIE,2004,R,163,history,"['MT', 'GB', 'US']",7.3,527447,48.407,7.3,220
+tm95477,Troy,MOVIE,2004,R,163,war,"['MT', 'GB', 'US']",7.3,527447,48.407,7.3,220
+tm95477,Troy,MOVIE,2004,R,163,drama,"['MT', 'GB', 'US']",7.3,527447,48.407,7.3,220
+tm95477,Troy,MOVIE,2004,R,163,european,"['MT', 'GB', 'US']",7.3,527447,48.407,7.3,220
+tm154187,Sherlock Holmes,MOVIE,2009,PG-13,129,crime,"['AU', 'DE', 'GB', 'US']",7.6,625708,43.297,7.6,255
+tm154187,Sherlock Holmes,MOVIE,2009,PG-13,129,thriller,"['AU', 'DE', 'GB', 'US']",7.6,625708,43.297,7.6,255
+tm154187,Sherlock Holmes,MOVIE,2009,PG-13,129,action,"['AU', 'DE', 'GB', 'US']",7.6,625708,43.297,7.6,255
+ts22267,Trailer Park Boys,SHOW,2001,TV-MA,25,comedy,['CA'],8.6,42733,22.603,8.6,171
+ts22267,Trailer Park Boys,SHOW,2001,TV-MA,25,crime,['CA'],8.6,42733,22.603,8.6,171
+tm133767,Love Actually,MOVIE,2003,R,135,drama,"['GB', 'US']",7.6,476101,36.484,7.6,300
+tm133767,Love Actually,MOVIE,2003,R,135,comedy,"['GB', 'US']",7.6,476101,36.484,7.6,300
+tm133767,Love Actually,MOVIE,2003,R,135,romance,"['GB', 'US']",7.6,476101,36.484,7.6,300
+ts2230,America's Next Top Model,SHOW,2003,TV-14,44,reality,['US'],5.6,17905,14.501,5.6,164
+tm45454,Get Smart,MOVIE,2008,PG-13,110,comedy,['US'],6.5,216695,22.421,6.5,43
+tm45454,Get Smart,MOVIE,2008,PG-13,110,thriller,['US'],6.5,216695,22.421,6.5,43
+tm45454,Get Smart,MOVIE,2008,PG-13,110,action,['US'],6.5,216695,22.421,6.5,43
+tm26897,Quantum of Solace,MOVIE,2008,PG-13,106,thriller,"['GB', 'US']",6.6,444241,31.298,6.6,260
+tm26897,Quantum of Solace,MOVIE,2008,PG-13,106,action,"['GB', 'US']",6.6,444241,31.298,6.6,260
+tm133374,The Blind Side,MOVIE,2009,PG-13,129,drama,['US'],7.6,327675,63.663,7.6,94
+tm133374,The Blind Side,MOVIE,2009,PG-13,129,sport,['US'],7.6,327675,63.663,7.6,94
+tm195620,Apocalypse Now Redux,MOVIE,2001,R,196,drama,['US'],6.510860656,23439.38247,4.147341,6.510860656,139
+tm195620,Apocalypse Now Redux,MOVIE,2001,R,196,war,['US'],6.510860656,23439.38247,4.147341,6.510860656,139
+tm195620,Apocalypse Now Redux,MOVIE,2001,R,196,horror,['US'],6.510860656,23439.38247,4.147341,6.510860656,139
+tm195620,Apocalypse Now Redux,MOVIE,2001,R,196,thriller,['US'],6.510860656,23439.38247,4.147341,6.510860656,139
+tm136808,Identity,MOVIE,2003,R,90,thriller,['US'],7.3,240433,19.558,7.3,12
+tm70807,I Am Legend,MOVIE,2007,PG-13,101,scifi,['US'],7.2,745093,69.139,7.2,107
+tm70807,I Am Legend,MOVIE,2007,PG-13,101,thriller,['US'],7.2,745093,69.139,7.2,107
+tm70807,I Am Legend,MOVIE,2007,PG-13,101,action,['US'],7.2,745093,69.139,7.2,107
+tm70807,I Am Legend,MOVIE,2007,PG-13,101,drama,['US'],7.2,745093,69.139,7.2,107
+ts19036,The Fairly OddParents,SHOW,2001,TV-Y7,23,comedy,"['CA', 'US']",7.2,38046,67.192,7.2,211
+ts19036,The Fairly OddParents,SHOW,2001,TV-Y7,23,scifi,"['CA', 'US']",7.2,38046,67.192,7.2,211
+ts19036,The Fairly OddParents,SHOW,2001,TV-Y7,23,animation,"['CA', 'US']",7.2,38046,67.192,7.2,211
+ts19036,The Fairly OddParents,SHOW,2001,TV-Y7,23,family,"['CA', 'US']",7.2,38046,67.192,7.2,211
+ts19036,The Fairly OddParents,SHOW,2001,TV-Y7,23,fantasy,"['CA', 'US']",7.2,38046,67.192,7.2,211
+tm93055,Grown Ups,MOVIE,2010,PG-13,102,comedy,['US'],5.9,249934,98.37,5.9,87
+tm93055,Grown Ups,MOVIE,2010,PG-13,102,drama,['US'],5.9,249934,98.37,5.9,87
+tm93055,Grown Ups,MOVIE,2010,PG-13,102,european,['US'],5.9,249934,98.37,5.9,87
+tm85811,The Girl Next Door,MOVIE,2004,Unrated,110,comedy,['US'],6.7,223380,37.315,6.7,239
+tm85811,The Girl Next Door,MOVIE,2004,Unrated,110,romance,['US'],6.7,223380,37.315,6.7,239
+tm85811,The Girl Next Door,MOVIE,2004,Unrated,110,drama,['US'],6.7,223380,37.315,6.7,239
+ts22456,Ned's Declassified School Survival Guide,SHOW,2004,TV-G,25,family,['US'],7.4,17864,33.115,7.4,112
+ts22456,Ned's Declassified School Survival Guide,SHOW,2004,TV-G,25,comedy,['US'],7.4,17864,33.115,7.4,112
+tm101914,The Fighter,MOVIE,2010,R,115,drama,['US'],6.510860656,23439.38247,17.007,6.510860656,215
+tm131038,Public Enemies,MOVIE,2009,R,140,action,"['US', 'JP']",7,300773,85.039,7,286
+tm131038,Public Enemies,MOVIE,2009,R,140,crime,"['US', 'JP']",7,300773,85.039,7,286
+tm131038,Public Enemies,MOVIE,2009,R,140,drama,"['US', 'JP']",7,300773,85.039,7,286
+tm131038,Public Enemies,MOVIE,2009,R,140,history,"['US', 'JP']",7,300773,85.039,7,286
+tm131038,Public Enemies,MOVIE,2009,R,140,european,"['US', 'JP']",7,300773,85.039,7,286
+tm58382,Not Another Teen Movie,MOVIE,2001,R,89,comedy,['US'],5.7,105352,36.438,5.7,148
+tm35463,Blow,MOVIE,2001,R,124,crime,['US'],7.5,258431,24.348,7.5,170
+tm35463,Blow,MOVIE,2001,R,124,drama,['US'],7.5,258431,24.348,7.5,170
+tm30603,Hancock,MOVIE,2008,PG-13,92,fantasy,['US'],6.4,476593,121.985,6.4,229
+tm30603,Hancock,MOVIE,2008,PG-13,92,action,['US'],6.4,476593,121.985,6.4,229
+tm30603,Hancock,MOVIE,2008,PG-13,92,crime,['US'],6.4,476593,121.985,6.4,229
+tm30603,Hancock,MOVIE,2008,PG-13,92,drama,['US'],6.4,476593,121.985,6.4,229
+ts22018,iCarly,SHOW,2007,TV-G,26,comedy,['US'],6.7,38877,100.996,6.7,120
+ts22018,iCarly,SHOW,2007,TV-G,26,family,['US'],6.7,38877,100.996,6.7,120
+ts22018,iCarly,SHOW,2007,TV-G,26,romance,['US'],6.7,38877,100.996,6.7,120
+tm20959,The Pursuit of Happyness,MOVIE,2006,PG-13,117,drama,['US'],8,501457,47.893,8,278
+tm20959,The Pursuit of Happyness,MOVIE,2006,PG-13,117,european,['US'],8,501457,47.893,8,278
+tm136308,Monster,MOVIE,2003,R,110,crime,['US'],7.3,150339,16.309,7.3,278
+tm136308,Monster,MOVIE,2003,R,110,drama,['US'],7.3,150339,16.309,7.3,278
+tm136308,Monster,MOVIE,2003,R,110,thriller,['US'],7.3,150339,16.309,7.3,278
+tm136308,Monster,MOVIE,2003,R,110,european,['US'],7.3,150339,16.309,7.3,278
+tm29737,Rambo,MOVIE,2008,R,92,action,"['DE', 'US']",7,230333,72.224,7,28
+tm29737,Rambo,MOVIE,2008,R,92,thriller,"['DE', 'US']",7,230333,72.224,7,28
+tm29737,Rambo,MOVIE,2008,R,92,war,"['DE', 'US']",7,230333,72.224,7,28
+tm29737,Rambo,MOVIE,2008,R,92,european,"['DE', 'US']",7,230333,72.224,7,28
+tm148270,Something's Gotta Give,MOVIE,2003,PG-13,128,drama,['US'],6.7,121364,14.619,6.7,202
+tm148270,Something's Gotta Give,MOVIE,2003,PG-13,128,comedy,['US'],6.7,121364,14.619,6.7,202
+tm148270,Something's Gotta Give,MOVIE,2003,PG-13,128,romance,['US'],6.7,121364,14.619,6.7,202
+tm89036,Harold & Kumar Go to White Castle,MOVIE,2004,R,83,comedy,['US'],7,194695,15.026,7,18
+tm46436,Thir13en Ghosts,MOVIE,2001,R,91,horror,"['CA', 'US']",5.6,87083,50.592,5.6,80
+tm46436,Thir13en Ghosts,MOVIE,2001,R,91,thriller,"['CA', 'US']",5.6,87083,50.592,5.6,80
+tm46436,Thir13en Ghosts,MOVIE,2001,R,91,fantasy,"['CA', 'US']",5.6,87083,50.592,5.6,80
+ts21197,Merlin,SHOW,2008,TV-PG,44,action,['GB'],7.9,80927,74.931,7.9,267
+ts21197,Merlin,SHOW,2008,TV-PG,44,drama,['GB'],7.9,80927,74.931,7.9,267
+ts21197,Merlin,SHOW,2008,TV-PG,44,scifi,['GB'],7.9,80927,74.931,7.9,267
+ts21197,Merlin,SHOW,2008,TV-PG,44,fantasy,['GB'],7.9,80927,74.931,7.9,267
+ts21197,Merlin,SHOW,2008,TV-PG,44,european,['GB'],7.9,80927,74.931,7.9,267
+ts21544,Transformers: Prime,SHOW,2010,TV-Y7,22,action,['US'],7.9,6636,28.925,7.9,197
+ts21544,Transformers: Prime,SHOW,2010,TV-Y7,22,animation,['US'],7.9,6636,28.925,7.9,197
+ts21544,Transformers: Prime,SHOW,2010,TV-Y7,22,comedy,['US'],7.9,6636,28.925,7.9,197
+ts21544,Transformers: Prime,SHOW,2010,TV-Y7,22,drama,['US'],7.9,6636,28.925,7.9,197
+ts21544,Transformers: Prime,SHOW,2010,TV-Y7,22,family,['US'],7.9,6636,28.925,7.9,197
+ts21544,Transformers: Prime,SHOW,2010,TV-Y7,22,scifi,['US'],7.9,6636,28.925,7.9,197
+tm150260,Cloudy with a Chance of Meatballs,MOVIE,2009,PG,90,animation,['US'],6.9,229274,58.945,6.9,231
+tm150260,Cloudy with a Chance of Meatballs,MOVIE,2009,PG,90,comedy,['US'],6.9,229274,58.945,6.9,231
+tm150260,Cloudy with a Chance of Meatballs,MOVIE,2009,PG,90,family,['US'],6.9,229274,58.945,6.9,231
+tm150260,Cloudy with a Chance of Meatballs,MOVIE,2009,PG,90,fantasy,['US'],6.9,229274,58.945,6.9,231
+tm150260,Cloudy with a Chance of Meatballs,MOVIE,2009,PG,90,scifi,['US'],6.9,229274,58.945,6.9,231
+tm150260,Cloudy with a Chance of Meatballs,MOVIE,2009,PG,90,romance,['US'],6.9,229274,58.945,6.9,231
+tm150260,Cloudy with a Chance of Meatballs,MOVIE,2009,PG,90,drama,['US'],6.9,229274,58.945,6.9,231
+ts31263,The Mole,SHOW,2001,TV-14,47,reality,"['BE', 'US']",7.6,1155,2.189,7.6,270
+ts30313,Offspring,SHOW,2010,Unrated,44,drama,['AU'],8.3,4880,10.243,8.3,287
+ts30313,Offspring,SHOW,2010,Unrated,44,comedy,['AU'],8.3,4880,10.243,8.3,287
+tm79895,Halloween,MOVIE,2007,R,109,horror,['US'],6,119606,38.491,6,216
+ts12787,Code Geass: Lelouch of the Rebellion,SHOW,2006,TV-14,24,scifi,['JP'],8.7,62367,35.011,8.7,22
+ts12787,Code Geass: Lelouch of the Rebellion,SHOW,2006,TV-14,24,action,['JP'],8.7,62367,35.011,8.7,22
+ts12787,Code Geass: Lelouch of the Rebellion,SHOW,2006,TV-14,24,animation,['JP'],8.7,62367,35.011,8.7,22
+ts12787,Code Geass: Lelouch of the Rebellion,SHOW,2006,TV-14,24,drama,['JP'],8.7,62367,35.011,8.7,22
+ts12787,Code Geass: Lelouch of the Rebellion,SHOW,2006,TV-14,24,war,['JP'],8.7,62367,35.011,8.7,22
+ts12787,Code Geass: Lelouch of the Rebellion,SHOW,2006,TV-14,24,thriller,['JP'],8.7,62367,35.011,8.7,22
+tm116324,Jackass: The Movie,MOVIE,2002,R,88,comedy,['US'],6.6,94423,25.23,6.6,219
+tm116324,Jackass: The Movie,MOVIE,2002,R,88,documentation,['US'],6.6,94423,25.23,6.6,219
+tm116324,Jackass: The Movie,MOVIE,2002,R,88,action,['US'],6.6,94423,25.23,6.6,219
+tm39828,Semi-Pro,MOVIE,2008,R,94,comedy,['US'],5.8,82159,12.789,5.8,146
+tm39828,Semi-Pro,MOVIE,2008,R,94,sport,['US'],5.8,82159,12.789,5.8,146
+tm39828,Semi-Pro,MOVIE,2008,R,94,european,['US'],5.8,82159,12.789,5.8,146
+tm23935,The Lake House,MOVIE,2006,PG,99,drama,['US'],6.8,149070,16.31,6.8,71
+tm23935,The Lake House,MOVIE,2006,PG,99,thriller,['US'],6.8,149070,16.31,6.8,71
+tm23935,The Lake House,MOVIE,2006,PG,99,fantasy,['US'],6.8,149070,16.31,6.8,71
+tm23935,The Lake House,MOVIE,2006,PG,99,romance,['US'],6.8,149070,16.31,6.8,71
+tm23935,The Lake House,MOVIE,2006,PG,99,documentation,['US'],6.8,149070,16.31,6.8,71
+tm78067,The Girl Next Door,MOVIE,2007,R,91,crime,['US'],6.5,26293,13.131,6.5,58
+tm78067,The Girl Next Door,MOVIE,2007,R,91,drama,['US'],6.5,26293,13.131,6.5,58
+tm78067,The Girl Next Door,MOVIE,2007,R,91,horror,['US'],6.5,26293,13.131,6.5,58
+tm78067,The Girl Next Door,MOVIE,2007,R,91,thriller,['US'],6.5,26293,13.131,6.5,58
+tm95252,The Book of Eli,MOVIE,2010,R,118,scifi,['US'],6.8,314920,30.476,6.8,127
+tm95252,The Book of Eli,MOVIE,2010,R,118,action,['US'],6.8,314920,30.476,6.8,127
+tm95252,The Book of Eli,MOVIE,2010,R,118,thriller,['US'],6.8,314920,30.476,6.8,127
+tm95252,The Book of Eli,MOVIE,2010,R,118,drama,['US'],6.8,314920,30.476,6.8,127
+tm95252,The Book of Eli,MOVIE,2010,R,118,european,['US'],6.8,314920,30.476,6.8,127
+tm32919,Blood Diamond,MOVIE,2006,R,143,drama,"['DE', 'US']",8,541547,47.39,8,30
+tm32919,Blood Diamond,MOVIE,2006,R,143,thriller,"['DE', 'US']",8,541547,47.39,8,30
+tm32919,Blood Diamond,MOVIE,2006,R,143,action,"['DE', 'US']",8,541547,47.39,8,30
+tm169949,Just Like Heaven,MOVIE,2005,PG-13,95,romance,['US'],6.7,108029,17.486,6.7,176
+tm169949,Just Like Heaven,MOVIE,2005,PG-13,95,drama,['US'],6.7,108029,17.486,6.7,176
+tm169949,Just Like Heaven,MOVIE,2005,PG-13,95,comedy,['US'],6.7,108029,17.486,6.7,176
+tm169949,Just Like Heaven,MOVIE,2005,PG-13,95,fantasy,['US'],6.7,108029,17.486,6.7,176
+tm30205,Ip Man,MOVIE,2008,R,106,drama,['HK'],8,222372,21.074,8,185
+tm30205,Ip Man,MOVIE,2008,R,106,fantasy,['HK'],8,222372,21.074,8,185
+tm30205,Ip Man,MOVIE,2008,R,106,comedy,['HK'],8,222372,21.074,8,185
+tm30205,Ip Man,MOVIE,2008,R,106,history,['HK'],8,222372,21.074,8,185
+tm30205,Ip Man,MOVIE,2008,R,106,action,['HK'],8,222372,21.074,8,185
+tm40009,21,MOVIE,2008,PG-13,123,crime,['US'],6.8,249016,27.013,6.8,163
+tm40009,21,MOVIE,2008,PG-13,123,drama,['US'],6.8,249016,27.013,6.8,163
+tm40009,21,MOVIE,2008,PG-13,123,history,['US'],6.8,249016,27.013,6.8,163
+tm40009,21,MOVIE,2008,PG-13,123,thriller,['US'],6.8,249016,27.013,6.8,163
+tm141390,Friday the 13th,MOVIE,2009,R,97,horror,['US'],5.5,106970,45.551,5.5,279
+tm141390,Friday the 13th,MOVIE,2009,R,97,thriller,['US'],5.5,106970,45.551,5.5,279
+ts35155,Gurren Lagann,SHOW,2007,TV-14,24,action,['JP'],8.3,17024,27.924,8.3,257
+ts35155,Gurren Lagann,SHOW,2007,TV-14,24,scifi,['JP'],8.3,17024,27.924,8.3,257
+ts35155,Gurren Lagann,SHOW,2007,TV-14,24,animation,['JP'],8.3,17024,27.924,8.3,257
+ts35155,Gurren Lagann,SHOW,2007,TV-14,24,comedy,['JP'],8.3,17024,27.924,8.3,257
+ts35155,Gurren Lagann,SHOW,2007,TV-14,24,drama,['JP'],8.3,17024,27.924,8.3,257
+tm94606,Let Me In,MOVIE,2010,R,116,drama,"['GB', 'US']",7.1,121008,22.791,7.1,155
+tm94606,Let Me In,MOVIE,2010,R,116,horror,"['GB', 'US']",7.1,121008,22.791,7.1,155
+tm94606,Let Me In,MOVIE,2010,R,116,thriller,"['GB', 'US']",7.1,121008,22.791,7.1,155
+tm94606,Let Me In,MOVIE,2010,R,116,fantasy,"['GB', 'US']",7.1,121008,22.791,7.1,155
+tm94606,Let Me In,MOVIE,2010,R,116,european,"['GB', 'US']",7.1,121008,22.791,7.1,155
+ts15986,Dead Set,SHOW,2008,TV-MA,141,scifi,['GB'],7.6,19812,9.68,7.6,180
+ts15986,Dead Set,SHOW,2008,TV-MA,141,reality,['GB'],7.6,19812,9.68,7.6,180
+ts15986,Dead Set,SHOW,2008,TV-MA,141,thriller,['GB'],7.6,19812,9.68,7.6,180
+ts15986,Dead Set,SHOW,2008,TV-MA,141,comedy,['GB'],7.6,19812,9.68,7.6,180
+ts15986,Dead Set,SHOW,2008,TV-MA,141,drama,['GB'],7.6,19812,9.68,7.6,180
+ts15986,Dead Set,SHOW,2008,TV-MA,141,horror,['GB'],7.6,19812,9.68,7.6,180
+ts15986,Dead Set,SHOW,2008,TV-MA,141,european,['GB'],7.6,19812,9.68,7.6,180
+tm102337,A Nightmare on Elm Street,MOVIE,2010,R,95,horror,['US'],5.2,99894,39.672,5.2,152
+tm102337,A Nightmare on Elm Street,MOVIE,2010,R,95,thriller,['US'],5.2,99894,39.672,5.2,152
+tm102337,A Nightmare on Elm Street,MOVIE,2010,R,95,crime,['US'],5.2,99894,39.672,5.2,152
+tm102337,A Nightmare on Elm Street,MOVIE,2010,R,95,drama,['US'],5.2,99894,39.672,5.2,152
+ts22318,Winx Club,SHOW,2004,TV-G,23,animation,['IT'],6.2,6700,25.633,6.2,176
+ts22318,Winx Club,SHOW,2004,TV-G,23,action,['IT'],6.2,6700,25.633,6.2,176
+ts22318,Winx Club,SHOW,2004,TV-G,23,comedy,['IT'],6.2,6700,25.633,6.2,176
+ts22318,Winx Club,SHOW,2004,TV-G,23,family,['IT'],6.2,6700,25.633,6.2,176
+ts22318,Winx Club,SHOW,2004,TV-G,23,fantasy,['IT'],6.2,6700,25.633,6.2,176
+ts22318,Winx Club,SHOW,2004,TV-G,23,thriller,['IT'],6.2,6700,25.633,6.2,176
+ts22318,Winx Club,SHOW,2004,TV-G,23,european,['IT'],6.2,6700,25.633,6.2,176
+tm159901,Miss Congeniality 2: Armed and Fabulous,MOVIE,2005,PG-13,115,action,['US'],5.1,74637,21.495,5.1,192
+tm159901,Miss Congeniality 2: Armed and Fabulous,MOVIE,2005,PG-13,115,comedy,['US'],5.1,74637,21.495,5.1,192
+tm159901,Miss Congeniality 2: Armed and Fabulous,MOVIE,2005,PG-13,115,crime,['US'],5.1,74637,21.495,5.1,192
+tm74780,The Bucket List,MOVIE,2007,PG-13,97,drama,['US'],7.4,244028,22,7.4,191
+tm74780,The Bucket List,MOVIE,2007,PG-13,97,comedy,['US'],7.4,244028,22,7.4,191
+tm74780,The Bucket List,MOVIE,2007,PG-13,97,european,['US'],7.4,244028,22,7.4,191
+ts30356,Octonauts,SHOW,2010,TV-Y,15,action,['GB'],7.6,1083,40.327,7.6,115
+ts30356,Octonauts,SHOW,2010,TV-Y,15,animation,['GB'],7.6,1083,40.327,7.6,115
+ts30356,Octonauts,SHOW,2010,TV-Y,15,comedy,['GB'],7.6,1083,40.327,7.6,115
+ts30356,Octonauts,SHOW,2010,TV-Y,15,family,['GB'],7.6,1083,40.327,7.6,115
+ts32186,Sonic X,SHOW,2003,TV-Y7,21,family,['JP'],6.2,4709,37.945,6.2,235
+ts32186,Sonic X,SHOW,2003,TV-Y7,21,animation,['JP'],6.2,4709,37.945,6.2,235
+ts32186,Sonic X,SHOW,2003,TV-Y7,21,action,['JP'],6.2,4709,37.945,6.2,235
+ts32186,Sonic X,SHOW,2003,TV-Y7,21,comedy,['JP'],6.2,4709,37.945,6.2,235
+ts32186,Sonic X,SHOW,2003,TV-Y7,21,drama,['JP'],6.2,4709,37.945,6.2,235
+ts32186,Sonic X,SHOW,2003,TV-Y7,21,thriller,['JP'],6.2,4709,37.945,6.2,235
+ts32186,Sonic X,SHOW,2003,TV-Y7,21,fantasy,['JP'],6.2,4709,37.945,6.2,235
+ts32186,Sonic X,SHOW,2003,TV-Y7,21,scifi,['JP'],6.2,4709,37.945,6.2,235
+tm24088,Scary Movie 4,MOVIE,2006,PG-13,83,comedy,['US'],5.1,120997,83.018,5.1,116
+tm24088,Scary Movie 4,MOVIE,2006,PG-13,83,horror,['US'],5.1,120997,83.018,5.1,116
+tm111600,The Sweetest Thing,MOVIE,2002,R,84,comedy,['US'],5.1,58884,10.625,5.1,55
+tm111600,The Sweetest Thing,MOVIE,2002,R,84,romance,['US'],5.1,58884,10.625,5.1,55
+tm88045,How Do You Know,MOVIE,2010,PG-13,121,comedy,['US'],5.4,50383,9.889,5.4,209
+tm88045,How Do You Know,MOVIE,2010,PG-13,121,drama,['US'],5.4,50383,9.889,5.4,209
+tm88045,How Do You Know,MOVIE,2010,PG-13,121,romance,['US'],5.4,50383,9.889,5.4,209
+tm78919,Mr. Bean's Holiday,MOVIE,2007,G,90,family,"['US', 'FR', 'DE', 'GB']",6.4,125160,32.512,6.4,55
+tm78919,Mr. Bean's Holiday,MOVIE,2007,G,90,comedy,"['US', 'FR', 'DE', 'GB']",6.4,125160,32.512,6.4,55
+tm78919,Mr. Bean's Holiday,MOVIE,2007,G,90,european,"['US', 'FR', 'DE', 'GB']",6.4,125160,32.512,6.4,55
+tm173066,The Interpreter,MOVIE,2005,PG-13,128,thriller,"['GB', 'US', 'FR', 'DE']",6.4,106781,12.694,6.4,49
+tm173066,The Interpreter,MOVIE,2005,PG-13,128,crime,"['GB', 'US', 'FR', 'DE']",6.4,106781,12.694,6.4,49
+tm173066,The Interpreter,MOVIE,2005,PG-13,128,european,"['GB', 'US', 'FR', 'DE']",6.4,106781,12.694,6.4,49
+tm118637,John Q,MOVIE,2002,PG-13,116,drama,['US'],7,133215,32.229,7,136
+tm118637,John Q,MOVIE,2002,PG-13,116,thriller,['US'],7,133215,32.229,7,136
+tm118637,John Q,MOVIE,2002,PG-13,116,crime,['US'],7,133215,32.229,7,136
+tm142564,3 Idiots,MOVIE,2009,PG-13,170,drama,['IN'],8.4,390739,44.999,8.4,52
+tm142564,3 Idiots,MOVIE,2009,PG-13,170,comedy,['IN'],8.4,390739,44.999,8.4,52
+tm57190,The One,MOVIE,2001,PG-13,87,thriller,['US'],5.9,92007,21.223,5.9,105
+tm57190,The One,MOVIE,2001,PG-13,87,action,['US'],5.9,92007,21.223,5.9,105
+tm57190,The One,MOVIE,2001,PG-13,87,scifi,['US'],5.9,92007,21.223,5.9,105
+ts21706,H2O: Just Add Water,SHOW,2006,TV-PG,25,scifi,['AU'],7.2,15179,30.832,7.2,125
+ts21706,H2O: Just Add Water,SHOW,2006,TV-PG,25,drama,['AU'],7.2,15179,30.832,7.2,125
+ts21706,H2O: Just Add Water,SHOW,2006,TV-PG,25,family,['AU'],7.2,15179,30.832,7.2,125
+ts21706,H2O: Just Add Water,SHOW,2006,TV-PG,25,fantasy,['AU'],7.2,15179,30.832,7.2,125
+tm137362,The Texas Chainsaw Massacre,MOVIE,2003,R,98,horror,['US'],6.2,141736,80.47,6.2,192
+tm137362,The Texas Chainsaw Massacre,MOVIE,2003,R,98,crime,['US'],6.2,141736,80.47,6.2,192
+ts24028,Still Game,SHOW,2002,TV-14,29,comedy,['GB'],8.9,7689,5.128,8.9,248
+ts24028,Still Game,SHOW,2002,TV-14,29,european,['GB'],8.9,7689,5.128,8.9,248
+tm148379,The Cat in the Hat,MOVIE,2003,PG,82,family,['US'],4,82684,66.8,4,178
+tm148379,The Cat in the Hat,MOVIE,2003,PG,82,fantasy,['US'],4,82684,66.8,4,178
+tm148379,The Cat in the Hat,MOVIE,2003,PG,82,comedy,['US'],4,82684,66.8,4,178
+tm148379,The Cat in the Hat,MOVIE,2003,PG,82,action,['US'],4,82684,66.8,4,178
+tm137342,Tears of the Sun,MOVIE,2003,R,121,war,['US'],6.6,121957,43.254,6.6,145
+tm137342,Tears of the Sun,MOVIE,2003,R,121,action,['US'],6.6,121957,43.254,6.6,145
+tm137342,Tears of the Sun,MOVIE,2003,R,121,drama,['US'],6.6,121957,43.254,6.6,145
+tm137342,Tears of the Sun,MOVIE,2003,R,121,thriller,['US'],6.6,121957,43.254,6.6,145
+tm90864,Due Date,MOVIE,2010,R,95,comedy,['US'],6.5,341390,36.06,6.5,167
+tm90864,Due Date,MOVIE,2010,R,95,drama,['US'],6.5,341390,36.06,6.5,167
+ts21740,Black Butler,SHOW,2008,TV-MA,25,scifi,['JP'],8.2,1877,36.122,8.2,60
+ts21740,Black Butler,SHOW,2008,TV-MA,25,animation,['JP'],8.2,1877,36.122,8.2,60
+ts21740,Black Butler,SHOW,2008,TV-MA,25,drama,['JP'],8.2,1877,36.122,8.2,60
+ts21740,Black Butler,SHOW,2008,TV-MA,25,thriller,['JP'],8.2,1877,36.122,8.2,60
+ts21740,Black Butler,SHOW,2008,TV-MA,25,comedy,['JP'],8.2,1877,36.122,8.2,60
+ts21740,Black Butler,SHOW,2008,TV-MA,25,fantasy,['JP'],8.2,1877,36.122,8.2,60
+ts21740,Black Butler,SHOW,2008,TV-MA,25,action,['JP'],8.2,1877,36.122,8.2,60
+ts21740,Black Butler,SHOW,2008,TV-MA,25,horror,['JP'],8.2,1877,36.122,8.2,60
+ts21740,Black Butler,SHOW,2008,TV-MA,25,crime,['JP'],8.2,1877,36.122,8.2,60
+tm32144,We Are Marshall,MOVIE,2006,PG,131,drama,['US'],7,61345,13.173,7,217
+tm32144,We Are Marshall,MOVIE,2006,PG,131,sport,['US'],7,61345,13.173,7,217
+tm141707,Blood and Bone,MOVIE,2009,R,93,thriller,['US'],6.7,33051,33.787,6.7,26
+tm141707,Blood and Bone,MOVIE,2009,R,93,sport,['US'],6.7,33051,33.787,6.7,26
+tm141707,Blood and Bone,MOVIE,2009,R,93,action,['US'],6.7,33051,33.787,6.7,26
+tm141707,Blood and Bone,MOVIE,2009,R,93,crime,['US'],6.7,33051,33.787,6.7,26
+tm141707,Blood and Bone,MOVIE,2009,R,93,drama,['US'],6.7,33051,33.787,6.7,26
+tm150214,Freddy vs. Jason,MOVIE,2003,R,97,horror,"['IT', 'US']",5.7,118925,65.747,5.7,3
+tm150214,Freddy vs. Jason,MOVIE,2003,R,97,action,"['IT', 'US']",5.7,118925,65.747,5.7,3
+tm81030,The Golden Compass,MOVIE,2007,PG-13,113,action,"['GB', 'US']",6.1,187485,20.255,6.1,255
+tm81030,The Golden Compass,MOVIE,2007,PG-13,113,fantasy,"['GB', 'US']",6.1,187485,20.255,6.1,255
+tm81030,The Golden Compass,MOVIE,2007,PG-13,113,family,"['GB', 'US']",6.1,187485,20.255,6.1,255
+ts687,The 4400,SHOW,2004,TV-14,44,drama,['US'],7.3,45249,37.169,7.3,72
+ts687,The 4400,SHOW,2004,TV-14,44,scifi,['US'],7.3,45249,37.169,7.3,72
+ts687,The 4400,SHOW,2004,TV-14,44,thriller,['US'],7.3,45249,37.169,7.3,72
+tm147211,The Men Who Stare at Goats,MOVIE,2009,R,94,comedy,"['US', 'GB']",6.2,132177,19.022,6.2,294
