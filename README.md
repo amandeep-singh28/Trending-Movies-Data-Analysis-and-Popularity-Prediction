@@ -97,7 +97,7 @@ These plots provided a clear understanding of data characteristics before modell
 
 ---
 
-## 📁 **Dataset Used**
+## 📁 **7. Dataset Used**
 
 The data for this project was sourced from [Kaggle – Netflix TV Shows and Movies Dataset](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies).
 
@@ -128,7 +128,7 @@ The data for this project was sourced from [Kaggle – Netflix TV Shows and Movi
 
 ---
 
-## 📌 **7. Final Thoughts & Future Scope**
+## 📌 **8. Final Thoughts & Future Scope**
 
 ✅ **Theme Integration:** Harmonised visuals with the moonlit wallpaper background.  
 ✅ **Dynamic Dashboard:** Fully interactive with genre and release year filters.  
