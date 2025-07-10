@@ -44,7 +44,7 @@ This project follows a structured **ETL pipeline**:
 
 ---
 
-## 📊 5. Data Visualization (Python)
+## 📊 4. Data Visualization (Python)
 
 In addition to Power BI visualizations, exploratory data analysis was performed using **Python (Matplotlib & Seaborn)** to derive initial insights:
 
@@ -57,7 +57,7 @@ These plots provided a clear understanding of data characteristics before modell
 
 ---
 
-## 📊 **4. Power BI Dashboard**
+## 📊 **5. Power BI Dashboard**
 
 ### 🎨 **Theme**
 - **Background:** Moonlit purple-pink landscape with silhouetted hills and starry sky.
