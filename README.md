@@ -44,6 +44,19 @@ This project follows a structured **ETL pipeline**:
 
 ---
 
+## 📊 5. Data Visualization (Python)
+
+In addition to Power BI visualizations, exploratory data analysis was performed using **Python (Matplotlib & Seaborn)** to derive initial insights:
+
+1. **Distribution of IMDb Scores** – Histogram + KDE to see score spread.
+2. **Runtime vs IMDb Score based on Type** – Scatter plot coloured by Type (Movie/Show).
+3. **Movie Counts by Type** – Count plot to compare the number of Movies vs Shows.
+4. **IMDb Score by Age Certification** – Box plot to visualise ratings across certifications.
+
+These plots provided a clear understanding of data characteristics before modelling and dashboarding.
+
+---
+
 ## 📊 **4. Power BI Dashboard**
 
 ### 🎨 **Theme**
@@ -70,20 +83,6 @@ This project follows a structured **ETL pipeline**:
 
 ✅ **Buttons**
 - **Reset to Default:** Clears all filters to dashboard defaults.
-
----
----
-
-## 📊 5. Data Visualization (Python)
-
-In addition to Power BI visualizations, exploratory data analysis was performed using **Python (Matplotlib & Seaborn)** to derive initial insights:
-
-1. **Distribution of IMDb Scores** – Histogram + KDE to see score spread.
-2. **Runtime vs IMDb Score based on Type** – Scatter plot coloured by Type (Movie/Show).
-3. **Movie Counts by Type** – Count plot to compare the number of Movies vs Shows.
-4. **IMDb Score by Age Certification** – Box plot to visualise ratings across certifications.
-
-These plots provided a clear understanding of data characteristics before modelling and dashboarding.
 
 ---
 
